@@ -1,0 +1,765 @@
+siren,nom,type,url-website,url-datagouv,id-datagouv,reg-code,reg-nom,dep-code,dep-nom,lat,long
+213500010,COMMUNE DE ACIGNE,COM,https://data.rennesmetropole.fr/explore/?sort=modified&refine.publisher=Commune+d%27Acigné,,,53,Bretagne,35,Ille-et-Vilaine,48.133181,-1.533969
+254002272,AGENCE DEPARTEMENTALE D AIDE AUX COLLECTIVITES LOCALES,AGCT,,https://www.data.gouv.fr/fr/organizations/agence-departementale-daide-aux-collectivites-locales-des-landes/#organization-datasets,,75,Nouvelle-Aquitaine,40,Landes,43.896897,-0.493175
+306966110,AGENCE DEVELOP URBANISME PAYS DE BREST,OACT,https://opendata.brest-metropole.fr/explore/?sort=modified&refine.publisher=ADEUPa,,,53,Bretagne,29,Finistère,48.391773,-4.483744
+384452611,ASSOCIATION POUR LE DEVELOPPEMENT ET L INNOVATION NUMERIQUE DES COLLECTIVITES,AGCT,https://opendata.adico.fr/fr/dataset?organization=adico,,,32,Hauts-de-France,60,Oise,49.444724,2.101907
+214700015,COMMUNE D AGEN,COM,https://data.agen.fr/explore/?refine.publisher=Mairie+d%27Agen,https://www.data.gouv.fr/fr/organizations/5bec29278b4c412a07c7ee5f/,5bec29278b4c412a07c7ee5f,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,44.202896,0.615676
+776258261,AGENCE DE DEVELOPPEMENT TOURISTIQUE DE L ARDECHE,OACT,https://opendata.ardeche.fr/group/agence-de-développement-touristique-de-lardèche,,,84,Auvergne-Rhône-Alpes,07,Ardèche,44.72712,4.585969
+392178570,AGENCE DU TOURISME DE LA CORSE,OACT,https://www.data.corsica/explore/?refine.publisher=Agence+de+Tourisme+de+la+Corse,,,94,Corse,2A,Corse-du-Sud,41.921557,8.739033
+287500052,AGCE ESPACES VERTS REGION ILE DE FRANCE,OACT,https://data.iledefrance.fr/explore/?sort=modified&refine.publisher=Agence+des+espaces+verts+d%27%C3%8Ele+de+France+(AEV),,,11,Île-de-France,93,Seine-Saint-Denis,48.896651,2.402616
+256404393,AGENCE PUBLIQUE DE GESTION LOCALE,AGCT,,https://www.data.gouv.fr/fr/organizations/5c94a888634f415e8c85de26/,5c94a888634f415e8c85de26,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.310079,-0.358881
+216400085,COMMUNE D AHAXE ALCIETTE BASCASSAN,COM,,https://www.data.gouv.fr/fr/organizations/5f55fc85c2d347d5abab8c57/,5f55fc85c2d347d5abab8c57,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+210400016,COMMUNE D AIGLUN,COM,https://trouver.datasud.fr/organization/commune-daiglun-04,,,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,44.050292,6.14253
+210500039,COMMUNE D AIGUILLES,COM,,https://www.data.gouv.fr/fr/organizations/aiguilles/,,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,44.781642,6.864735
+220100010,DEPARTEMENT DE L AIN,DEP,http://departement-ain.opendata.arcgis.com/datasets?source=D%C3%A9partement%20de%20l%27Ain,https://www.data.gouv.fr/fr/organizations/5851009688ee3870fbc65bb3,5851009688ee3870fbc65bb3,84,Auvergne-Rhône-Alpes,01,Ain,46.202432,5.223768
+216400119,COMMUNE D AINCILLE,COM,,https://www.data.gouv.fr/fr/organizations/aincille/,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+216400135,COMMUNE D AINHICE MONGELOS,COM,,https://www.data.gouv.fr/fr/organizations/5f340b1cfbebbe5c7c80d24e/,5f340b1cfbebbe5c7c80d24e,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+216400143,COMMUNE D AINHOA,COM,,https://www.data.gouv.fr/fr/organizations/5d4834076f444118283abfcf/,5d4834076f444118283abfcf,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+404453110,ASSOCIATION AIR BREIZH,OACT,http://data.airbreizh.asso.fr/geonetwork/srv/fre/catalog.search#/search?facet.q=type%2Fdataset,,,53,Bretagne,35,Ille-et-Vilaine,48.082566,-1.680064
+323266205,AIR PAYS DE LA LOIRE,OACT,https://data.airpl.org/geonetwork/srv/fre/catalog.search#/search?facet.q=type%2Fdataset,https://www.data.gouv.fr/fr/organizations/534fff53a3a7292c64a77cd7/,534fff53a3a7292c64a77cd7,52,Pays de la Loire,44,Loire-Atlantique,47.276235,-1.511075
+214000010,COMMUNE D AIRE SUR L ADOUR,COM,,https://www.data.gouv.fr/fr/organizations/5b9a1371634f417f35dc4a7c/,5b9a1371634f417f35dc4a7c,75,Nouvelle-Aquitaine,40,Landes,43.699975,-0.262341
+316465236,ASS GESTION RESEAU MESUR POLLUT ATMOSPH,OACT,https://data-airparif-asso.opendata.arcgis.com/datasets,https://www.data.gouv.fr/fr/organizations/5a4381adc751df74bae4627d/,5a4381adc751df74bae4627d,11,Île-de-France,75,Paris,48.848962,2.36528
+211300017,COMMUNE D AIX EN PROVENCE,COM,https://aix-en-provence.opendatasoft.com/explore/?sort=modified&refine.publisher=Ville+d%27Aix+en+Provence,,,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.529931,5.447868
+217300086,COMMUNE D AIX LES BAINS,COM,,https://www.data.gouv.fr/fr/organizations/5ab9e75188ee387964e77c2b/,5ab9e75188ee387964e77c2b,84,Auvergne-Rhône-Alpes,73,Savoie,45.688602,5.915549
+218100048,COMMUNE D ALBI,COM,https://opendata.mairie-albi.fr/dataset?q=,,,76,Occitanie,81,Tarn,43.927146,2.146534
+215600016,COMMUNE DE ALLAIRE,COM,,https://www.data.gouv.fr/fr/organizations/5a1d2901c751df5e50300f1c,5a1d2901c751df5e50300f1c,53,Bretagne,56,Morbihan,47.630589,-2.157878
+220400014,DEPARTEMENT DES ALPES DE HAUTE PROVENCE,DEP,https://trouver.datasud.fr/organization/conseil-departemental-des-alpes-de-haute-provence,,,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,44.091996,6.237268
+220600019,DEPARTEMENT DES ALPES MARITIMES,DEP,https://data.departement06.fr,https://www.data.gouv.fr/fr/organizations/5e00c7456f444104766e92d6/,5e00c7456f444104766e92d6,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.67538,7.19965
+254003304,SYNDICAT MIXTE AGENCE LANDAISE POUR L INFORMATIQUE,AGCT,https://www.pigma.org/datanouvelleaquitaine/dataset?sort=score+desc%2C+metadata_modified+desc&organization=agence_landaise_pour_l_informatique&q=alpi&ext_bbox=&ext_prev_extent=-6.0205078125%2C41.77131167976407%2C6.8115234375%2C47.989921667414194,https://www.data.gouv.fr/fr/organizations/59b2610dc751df4ea9075aea/,59b2610dc751df4ea9075aea,75,Nouvelle-Aquitaine,40,Landes,43.896897,-0.493175
+213000102,COMMUNE D ANDUZE,COM,,https://www.data.gouv.fr/fr/organizations/5c49b5498b4c4139d1714d76/,5c49b5498b4c4139d1714d76,76,Occitanie,30,Gard,44.053952,3.987439
+214900078,COMMUNE D ANGERS,COM,https://data.angers.fr/explore/?refine.publisher=Ville+d%27Angers,,,52,Pays de la Loire,49,Maine-et-Loire,47.471242,-0.547583
+244900015,COMMUNAUTE URBAINE ANGERS LOIRE METROPOLE,CU,https://data.angers.fr/explore/?refine.publisher=Angers+Loire+M%C3%A9tropole,https://www.data.gouv.fr/fr/organizations/538346d6a3a72906c7ec5c36,538346d6a3a72906c7ec5c36,52,Pays de la Loire,49,Maine-et-Loire,47.4719,-0.547983
+216400242,COMMUNE D ANGLET,COM,https://anglet-opendatapaysbasque.opendatasoft.com/explore/?sort=modified,,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.481205,-1.515003
+200063402,COMMUNE D ANNECY,COM,,https://www.data.gouv.fr/fr/organizations/ville-dannecy/,,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,45.898745,6.128526
+210600045,COMMUNE D ANTIBES,COM,https://trouver.datasud.fr/organization/ville-dantibes-juan-les-pins,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.580746,7.127431
+784237539,ATELIER PARISIEN D URBANISME,OACT,http://opendata.apur.org/datasets,,,11,Île-de-France,75,Paris,48.825563,2.38353
+451366611,ETS PUB COOPER CULT ARTS SCENE IMAGE IDF,OACT,https://data.iledefrance.fr/explore/?refine.publisher=Arcadi,,,11,Île-de-France,75,Paris,48.871796,2.353647
+220700017,DEPARTEMENT DE L ARDECHE,DEP,https://opendata.ardeche.fr/search/type/dataset,,,84,Auvergne-Rhône-Alpes,07,Ardèche,44.736875,4.604631
+216400457,COMMUNE D ARHANSUS,COM,,https://www.data.gouv.fr/fr/organizations/5e66099d634f411da2f28cfd/,5e66099d634f411da2f28cfd,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+220900013,DEPARTEMENT DE L ARIEGE,DEP,,https://www.data.gouv.fr/fr/organizations/5a90060ec751df1402f350d8/,5a90060ec751df1402f350d8,76,Occitanie,09,Ariège,42.962777,1.6005
+447740036,AGENCE REGIONALE DU LIVRE PACA,OACT,https://trouver.datasud.fr/organization/agence-regionale-du-livre-provence-alpes-cote-dazur,,,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.52439,5.439656
+215900176,COMMUNE D ARMENTIERES,COM,https://opendata.lillemetropole.fr/explore/?refine.publisher=Ville+d%27ARMENTIERES,,,32,Hauts-de-France,59,Nord,50.686549,2.881634
+219200045,COMMUNE D ASNIERES SUR SEINE,COM,https://opendata.hauts-de-seine.fr/explore/?refine.publisher=Ville+d%27Asnières-sur-Seine,https://www.data.gouv.fr/fr/organizations/5a61b7a7c751df3fd36ac81a,5a61b7a7c751df3fd36ac81a,11,Île-de-France,92,Hauts-de-Seine,48.910692,2.288989
+200050714,AGENCE TECHNIQUE DEPARTEMENTALE 36,OACT,,https://www.data.gouv.fr/fr/organizations/5aa95464c751df7c5ded72f6/,5aa95464c751df7c5ded72f6,24,Centre-Val de Loire,36,Indre,46.812027,1.687127
+534194451,ATMO AUVERGNE RHONE ALPES,OACT,https://data-atmoaura.opendata.arcgis.com/datasets,https://www.data.gouv.fr/fr/organizations/59a538b688ee386b121578b9/,59a538b688ee386b121578b9,84,Auvergne-Rhône-Alpes,69,Rhône,45.738447,4.931805
+829854181,ATMO BOURGOGNE FRANCHE COMTE,OACT,https://www.atmo-bfc.org/opendata,,,27,Bourgogne-Franche-Comté,25,Doubs,47.2415,6.02046
+822734307,ATMO GRAND EST,OACT,https://data-atmograndest.opendata.arcgis.com/datasets,,,44,Grand Est,67,Bas-Rhin,48.608876,7.708391
+420010878,ATMO GUYANE,OACT,https://data-atmo-guyane.opendata.arcgis.com/datasets,,,3,Guyane,973,Guyane,4.857396,-52.273294
+478029127,ATMO HAUTS DE FRANCE,OACT,https://data-atmo-hdf.opendata.arcgis.com/datasets,,,32,Hauts-de-France,59,Nord,50.634584,3.040832
+488233313,ATMO NORMANDIE,OACT,https://datas-atmonormandie.opendata.arcgis.com/datasets,,,28,Normandie,76,Seine-Maritime,49.443109,1.103233
+311059422,ATMO NOUVELLE AQUITAINE,OACT,https://data-atmo-na.opendata.arcgis.com/datasets,https://www.data.gouv.fr/fr/organizations/534fff53a3a7292c64a77cd9/,534fff53a3a7292c64a77cd9,75,Nouvelle-Aquitaine,33,Gironde,44.830211,-0.673861
+308599703,ATMO OCCITANIE,OACT,https://data-atmo-occitanie.opendata.arcgis.com/datasets,,,76,Occitanie,34,Hérault,43.576068,3.946168
+422969667,ATMO REUNION,OACT,https://data-atmoreunion.opendata.arcgis.com/datasets,,,4,La Réunion,974,La Réunion,-20.896017,55.53407
+324465632,ATMOSUD PROVENCE ALPES COTE D AZUR,OACT,https://trouver.datasud.fr/organization/atmosud,https://www.data.gouv.fr/fr/organizations/5b9fb3678b4c416ff2277bb5/,5b9fb3678b4c416ff2277bb5,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.286782,5.37949
+200052488,SYNDICAT MIXTE ATOUMOD,AGCT,,https://www.data.gouv.fr/fr/organizations/5cc844dd634f41078d8e2c8e/,5cc844dd634f41078d8e2c8e,28,Normandie,76,Seine-Maritime,49.438248,1.104128
+221000052,DEPARTEMENT DE L AUBE,DEP,,https://www.data.gouv.fr/fr/organizations/5a216283c751df6333108428/,5a216283c751df6333108428,44,Grand Est,10,Aube,48.297892,4.078436
+429596190,ASSOC DEPARTEMENTALE DU TOURISME AUBE,OACT,,https://www.data.gouv.fr/fr/organizations/54880126c751df081fa3fc15/,54880126c751df081fa3fc15,44,Grand Est,10,Aube,48.297584,4.077437
+213100225,COMMUNE D AUCAMVILLE,COM,https://data.toulouse-metropole.fr/explore/?refine.publisher=Mairie+d%27Aucamville,,,76,Occitanie,31,Haute-Garonne,43.669032,1.429228
+221100019,DEPARTEMENT DE L AUDE,DEP,https://opendata.aude.fr/explore/?sort=modified&refine.publisher=D%C3%A9partement+de+l%27Aude,,,76,Occitanie,11,Aude,43.228,2.363588
+213100332,COMMUNE D AUTERIVE,COM,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Commune+d%27Auterive,,,76,Occitanie,31,Haute-Garonne,43.352609,1.477892
+200021624,SYNDICAT MIXTE AUTOLIB ET VELIB METROPOLE,AGCT,https://opendata.paris.fr/explore/?sort=modified&refine.publisher=Autolib+Velib+M%C3%A9tropole+&refine.publisher=Autolib+Velib+M%C3%A9tropole&disjunctive.theme&disjunctive.publisher&disjunctive.keyword&disjunctive.modified&disjunctive.features,https://www.data.gouv.fr/fr/organizations/55b10bbcc751df773d10ccc3/,55b10bbcc751df773d10ccc3,11,Île-de-France,75,Paris,48.865484,2.352344
+217100148,COMMUNE DE AUTUN,COM,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5bb47c2a634f416334276b4f/,5bb47c2a634f416334276b4f,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,46.950268,4.298262
+200053767,REGION AUVERGNE RHONE ALPES,REG,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider[]=R%C3%A9gion%20Auvergne%20Rh%C3%B4ne-Alpes&from=0,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.740575,4.820078
+824433866,AUVERGNE RHONE ALPES TOURISME,OACT,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider%5B%5D=Comit%C3%A9+R%C3%A9gional+de+D%C3%A9veloppement+touristique+d%E2%80%99Auvergne+%28CRDTA%29,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.74629,4.828188
+218400075,COMMUNE D AVIGNON,COM,https://trouver.datasud.fr/organization/avignon,,,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,43.949642,4.806251
+216400861,COMMUNE D AYHERRE,COM,,https://www.data.gouv.fr/fr/organizations/5cfa61b1634f411763ec4dff/,5cfa61b1634f411763ec4dff,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+213400229,COMMUNE DE BAILLARGUES,COM,http://data.montpellier3m.fr/datasets/commune/baillargues,,,76,Occitanie,34,Hérault,,
+213500135,COMMUNE DE BAINS SUR OUST,COM,,https://www.data.gouv.fr/fr/organizations/5a1d64a3c751df51a9440eae,5a1d64a3c751df51a9440eae,53,Bretagne,35,Ille-et-Vilaine,47.705403,-2.072124
+213100449,COMMUNE DE BALMA,COM,https://data.toulouse-metropole.fr/explore/?refine.publisher=Mairie+de+Balma,,,76,Occitanie,31,Haute-Garonne,43.6059,1.50011
+218300093,COMMUNE DE BANDOL,COM,https://opendata.sictiam.fr/fr/organization/mairie-de-bandol,,,93,Provence-Alpes-Côte d'Azur,83,Var,43.135824,5.754608
+215500299,COMMUNE DE BAR LE DUC,COM,,https://www.data.gouv.fr/fr/organizations/56b89c46c751df22549f9dea,56b89c46c751df22549f9dea,44,Grand Est,55,Meuse,48.771366,5.162416
+211200563,COMMUNE DE BARAQUEVILLE,COM,,https://www.data.gouv.fr/fr/organizations/59bf94cec751df629f10513d/,59bf94cec751df629f10513d,76,Occitanie,12,Aveyron,44.277908,2.431018
+245400601,COMMUNAUTE DE COMMUNES DU BASSIN DE POMPEY,CC,https://data.bassinpompey.fr/donnees-collectivite,,,44,Grand Est,54,Meurthe-et-Moselle,48.771391,6.131952
+214400103,COMMUNE DE BATZ SUR MER,COM,https://data.paysdelaloire.fr/explore/?disjunctive.diffuseur&disjunctive.gestionnaire&disjunctive.publisher&source=shared&sort=title&refine.publisher=Batz-sur-Mer,,,52,Pays de la Loire,44,Loire-Atlantique,47.277582,-2.477964
+216401026,COMMUNE DE BAYONNE,COM,https://www.bayonne.fr/information-transversale/open-data-datagouvfr,https://www.data.gouv.fr/fr/datasets/?sort=-created&organization=58d53c4688ee380aeea5e932,58d53c4688ee380aeea5e932,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.493505,-1.474908
+213400278,COMMUNE DE BEAULIEU,COM,http://data.montpellier3m.fr/datasets/commune/beaulieu,,,76,Occitanie,34,Hérault,43.722036,4.008659
+200064699,COMMUNE DE BEAUSSAIS SUR MER,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.578971,-2.139884
+216000562,COMMUNE DE BEAUVAIS,COM,,https://www.data.gouv.fr/fr/organizations/587cebc488ee3805cb9b81a4,587cebc488ee3805cb9b81a4,32,Hauts-de-France,60,Oise,49.429266,2.080582
+215600115,COMMUNE DE BEGANNE,COM,https://www.opendata56.fr/explore/?refine.publisher=Ville+de+B%C3%A9ganne,,,53,Bretagne,56,Morbihan,47.595947,-2.241013
+212200042,COMMUNE DE BEGARD,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.625168,-3.287628
+216401059,COMMUNE DE BEGUIOS,COM,,https://www.data.gouv.fr/fr/organizations/5dcd6e3d634f411cead9eeb8/,5dcd6e3d634f411cead9eeb8,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+216201087,COMMUNE DE BERCK,COM,,https://www.data.gouv.fr/fr/organizations/5f06e7cf3a2888d20686160c/,5f06e7cf3a2888d20686160c,32,Hauts-de-France,62,Pas-de-Calais,50.408155,1.592266
+212400378,COMMUNE DE BERGERAC,COM,,https://www.data.gouv.fr/fr/organizations/5dc4192f8b4c41249cc6a390/,5dc4192f8b4c41249cc6a390,75,Nouvelle-Aquitaine,24,Dordogne,44.850069,0.484661
+200041481,BERRY NUMERIQUE,AGCT,,https://www.data.gouv.fr/fr/organizations/5d3f06948b4c410863800078/,5d3f06948b4c410863800078,24,Centre-Val de Loire,18,Cher,47.081076,2.395806
+212500565,COMMUNE DE BESANCON,COM,https://trouver.ternum-bfc.fr/organization/commune-de-besancon,https://www.data.gouv.fr/fr/organizations/539a5b76a3a7293bc272836c/,539a5b76a3a7293bc272836c,27,Bourgogne-Franche-Comté,25,Doubs,47.2367,6.02209
+214400137,COMMUNE DE BESNE,COM,https://data.agglo-carene.fr/explore/?refine.publisher=Besné,,,52,Pays de la Loire,44,Loire-Atlantique,47.39653,-2.09208
+213100696,COMMUNE DE BLAGNAC,COM,https://data.toulouse-metropole.fr/explore/?sort=modified&refine.publisher=Ville+de+Blagnac,,,76,Occitanie,31,Haute-Garonne,43.635124,1.398416
+214100182,COMMUNE DE BLOIS,COM,https://data.blois.agglopolys.fr/pages/accueil/,,,24,Centre-Val de Loire,41,Loir-et-Cher,47.588565,1.335934
+214700312,COMMUNE DE BOE,COM,,https://www.data.gouv.fr/fr/organizations/596ca1ecc751df20cc2b38df,596ca1ecc751df20cc2b38df,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,44.160462,0.627389
+217700376,COMMUNE BOIS LE ROI,COM,,https://www.data.gouv.fr/fr/organizations/5e7c7ff9dfaefff40aca1f99/,5e7c7ff9dfaefff40aca1f99,11,Île-de-France,77,Seine-et-Marne,48.47595,2.693678
+219400041,COMMUNE DE BOISSY SAINT LEGER,COM,"https://boissy.data4citizen.com/portail?facet.field=[%22organization%22,%22tags%22,%22theme%22,%22features%22]&rows=10&start=0&fq=organization:(boissy)",,,11,Île-de-France,94,Val-de-Marne,48.748008,2.512884
+219100864,COMMUNE DE BONDOUFLE,COM,https://bondoufle-grandparissud.opendatasoft.com,,,11,Île-de-France,91,Essonne,48.613411,2.380002
+213300635,COMMUNE DE BORDEAUX,COM,https://opendata.bordeaux-metropole.fr/explore/?disjunctive.publisher&disjunctive.frequence&disjunctive.territoire&sort=title&refine.publisher=Ville+de+Bordeaux,,,75,Nouvelle-Aquitaine,33,Gironde,44.837218,-0.577158
+243300316,BORDEAUX METROPOLE,MET,https://opendata.bordeaux-metropole.fr/explore/?disjunctive.publisher&disjunctive.frequence&disjunctive.territoire&sort=title&refine.publisher=Bordeaux+Métropole,https://www.data.gouv.fr/fr/organizations/5b0d11f688ee382af4b18c95/,5b0d11f688ee382af4b18c95,75,Nouvelle-Aquitaine,33,Gironde,44.837742,-0.584513
+219200128,COMMUNE DE BOULOGNE BILLANCOURT,COM,https://boulognebillancourt-seineouest.opendatasoft.com/explore/?sort=title&refine.publisher=Ville+de+Boulogne-Billancourt,https://www.data.gouv.fr/fr/organizations/54d8f2a4c751df1df7467389,54d8f2a4c751df1df7467389,11,Île-de-France,92,Hauts-de-Seine,48.835697,2.240418
+212600589,COMMUNE DE BOURG LES VALENCE,COM,,https://www.data.gouv.fr/fr/organizations/bourg-les-valence/,,84,Auvergne-Rhône-Alpes,26,Drôme,44.94661,4.894252
+241800507,COMMUNAUTE AGGLOMERATION BOURGES PLUS,CA,https://data.bourgesplus.fr/pages/accueil/,,,24,Centre-Val de Loire,18,Cher,47.075877,2.406054
+200053726,REGION BOURGOGNE FRANCHE COMTE,REG,https://trouver.ternum-bfc.fr/organization/region-bourgogne-franche-comte,https://www.data.gouv.fr/fr/organizations/5835cdb988ee383e0bc65bb3,5835cdb988ee383e0bc65bb3,27,Bourgogne-Franche-Comté,25,Doubs,47.2345,6.0304
+242900314,BREST METROPOLE,MET,https://opendata.brest-metropole.fr/explore/?sort=modified&refine.publisher=Brest+métropole,https://www.data.gouv.fr/fr/organizations/534fff5ba3a7292c64a77d19,534fff5ba3a7292c64a77d19,53,Bretagne,29,Finistère,48.393709,-4.483055
+233500016,REGION BRETAGNE,REG,https://data.bretagne.bzh/explore/?sort=modified&refine.publisher=R%C3%A9gion+Bretagne,https://www.data.gouv.fr/fr/organizations/559a4970c751df46a9a453ba,559a4970c751df46a9a453ba,53,Bretagne,35,Ille-et-Vilaine,48.134736,-1.660295
+213500408,COMMUNE DE BRETEIL,COM,,https://www.data.gouv.fr/fr/organizations/5b236d75c751df4eaa3a9b5e/,5b236d75c751df4eaa3a9b5e,53,Bretagne,35,Ille-et-Vilaine,48.145245,-1.900742
+217700533,COMMUNE BRIE COMTE ROBERT,COM,,https://www.data.gouv.fr/fr/organizations/5b71455e8b4c41290a9c0450/,5b71455e8b4c41290a9c0450,11,Île-de-France,77,Seine-et-Marne,48.694836,2.611084
+214000564,COMMUNE DE BROCAS,COM,http://opendata.brocaslesforges.fr/project/jeux-donnees/,https://www.data.gouv.fr/fr/organizations/534fff65a3a7292c64a77d76,534fff65a3a7292c64a77d76,75,Nouvelle-Aquitaine,40,Landes,44.044362,-0.536192
+216900290,COMMUNE DE BRON,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Bron,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.73366,4.909219
+852356583,BROU SUR CHANTEREINE DISTRIBUTION,COM,https://brou-sur-chantereine-agglo-pvm.opendata.arcgis.com/,,,11,Île-de-France,77,Seine-et-Marne,48.879801,2.626763
+410582613,SOCIETE DES TRANSPORTS DE L AGGLOMERATION THONONAISE,DSPT,,https://www.data.gouv.fr/fr/organizations/5c079a5e8b4c415b9f0f3be2/,5c079a5e8b4c415b9f0f3be2,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,46.391496,6.505187
+216401554,COMMUNE DE BUSTINCE IRIBERRY,COM,,https://www.data.gouv.fr/fr/organizations/5f3400480daf057063028825/,5f3400480daf057063028825,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+200011773,ANNEMASSE LES VOIRONS AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/5ca4bacb634f4118ab6dea0f/,5ca4bacb634f4118ab6dea0f,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,46.19859,6.236053
+200041630,ARDENNE METROPOLE,CA,https://ardennemetropole.opendatasoft.com/explore/?sort=modified&refine.publisher=Ardenne+Métropole,,,44,Grand Est,08,Ardennes,49.75394,4.717
+241300417,COMMUNAUTE D AGGLOMERATION ARLES CRAU CAMARGUE MONTAGNETTE,CA,https://trouver.datasud.fr/organization/communaute-dagglomeration-arles-crau-camargue-montagnette,https://www.data.gouv.fr/fr/organizations/534fff55a3a7292c64a77cde/,534fff55a3a7292c64a77cde,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.673879,4.638792
+200033025,COMMUNAUTE D AGGLOMERATION DE BAR LE DUC SUD MEUSE,CA,,https://www.data.gouv.fr/fr/organizations/56b8a4ffc751df02a29f9deb,56b8a4ffc751df02a29f9deb,44,Grand Est,55,Meuse,48.771366,5.162416
+200006682,BEAUNE COTE ET SUD COMMUNAUTE BEAUNE CHAGNY NOLAY,CA,https://trouver.ternum-bfc.fr/organization/beaune-cote-et-sud-communaute-beaune-chagny-nolay,https://www.data.gouv.fr/fr/organizations/5bec28758b4c412a07c7ee5e/,5bec28758b4c412a07c7ee5e,27,Bourgogne-Franche-Comté,21,Côte-d'Or,47.017451,4.846872
+200039915,COMMUNAUTE D AGGLOMERATION CANNES PAYS DE LERINS,CA,,https://www.data.gouv.fr/fr/organizations/5b3f6542c751df03439fad72/,5b3f6542c751df03439fad72,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.551124,7.012215
+200010700,CA CAUX SEINE AGGLO,CA,https://opendata.cauxseine.fr,,,28,Normandie,76,Seine-Maritime,49.531791,0.516084
+243600327,CHATEAUROUX METROPOLE,CA,https://data.chateauroux-metropole.fr/explore/?sort=title&refine.publisher=CHATEAUROUX+METROPOLE,https://www.data.gouv.fr/fr/organizations/5bf67a998b4c417eae692920/,5bf67a998b4c417eae692920,24,Centre-Val de Loire,36,Indre,46.811543,1.691936
+200057859,CA COEUR D ESSONNE AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/5a5f18afc751df7bae61b648/,5a5f18afc751df7bae61b648,11,Île-de-France,91,Essonne,48.638261,2.332626
+246800726,COLMAR AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/5e44026b8b4c416f93430c66/,5e44026b8b4c416f93430c66,44,Grand Est,68,Haut-Rhin,48.080377,7.357919
+243400769,COMMUNAUTE D AGGLOMERATION BEZIERS MEDITERRANEE,CA,,https://www.data.gouv.fr/fr/organizations/5b6c2e4b8b4c41287663df35/,5b6c2e4b8b4c41287663df35,76,Occitanie,34,Hérault,43.336234,3.225023
+200030385,COMMUNAUTE D AGGLOMERATION DE BLOIS AGGLOPOLYS,CA,https://data.blois.agglopolys.fr/pages/accueil/,,,24,Centre-Val de Loire,41,Loir-et-Cher,47.594629,1.329817
+248100430,COMMUNAUTE D AGGLOMERATION DE CASTRES MAZAMET,CA,,https://www.data.gouv.fr/fr/organizations/5c9398018b4c412692ef9cf7/,5c9398018b4c412692ef9cf7,76,Occitanie,81,Tarn,43.626921,2.225317
+200066876,CA DE CHALONS EN CHAMPAGNE,CA,,https://www.data.gouv.fr/fr/organizations/5badf1f68b4c412c38533e4e/,5badf1f68b4c412c38533e4e,44,Grand Est,51,Marne,48.956649,4.362286
+200067874,CA DE HAGUENAU,CA,,https://www.data.gouv.fr/fr/organizations/5c0f8dfa634f4122be181e6a/,5c0f8dfa634f4122be181e6a,44,Grand Est,67,Bas-Rhin,48.803819,7.768429
+248100737,COMMUNAUTE D AGGLO DE L ALBIGEOIS C2A,CA,,https://www.data.gouv.fr/fr/organizations/5be0257c634f415cecdbb5ff/,5be0257c634f415cecdbb5ff,76,Occitanie,81,Tarn,43.927146,2.146534
+200067114,CA DE L AUXERROIS,CA,https://trouver.ternum-bfc.fr/organization/communaute-dagglomeration-de-lauxerrois,https://www.data.gouv.fr/fr/organizations/5bec4aea8b4c416395a5e99e/,5bec4aea8b4c416395a5e99e,27,Bourgogne-Franche-Comté,89,Yonne,47.795286,3.570101
+244400610,COMMUNAUTE D AGGLOMERATION DE LA PRESQU ILE DE GUERANDE ATLANTIQUE,CA,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=Cap+Atlantique,https://www.data.gouv.fr/fr/organizations/5cb0688e8b4c410c0750754c/,5cb0688e8b4c410c0750754c,52,Pays de la Loire,44,Loire-Atlantique,47.291261,-2.394205
+247600786,COMMUNAUTE D AGGLOMERATION DE LA REGION DIEPPOISE,CA,,https://www.data.gouv.fr/fr/organizations/5c1bb6bf634f416b25009c88/,5c1bb6bf634f416b25009c88,28,Normandie,76,Seine-Maritime,49.923631,1.080531
+244400644,COMMUNAUTE D AGGLO DE LA REGION NAZAIRIENNE ET DE L ESTUAIRE,CA,https://data.agglo-carene.fr/explore/?refine.publisher=CARENE,,,52,Pays de la Loire,44,Loire-Atlantique,47.28575,-2.21241
+240600551,COMMUNAUTE D AGGLOMERATION DE LA RIVIERA FRANCAISE,CA,,https://www.data.gouv.fr/fr/organizations/5bb48e40634f410f9101c8e3/,5bb48e40634f410f9101c8e3,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.77628,7.501188
+245804406,COMMUNAUTE D AGGLOMERATION DE NEVERS,CA,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5943987b88ee381f30d196f7,5943987b88ee381f30d196f7,27,Bourgogne-Franche-Comté,58,Nièvre,46.988185,3.119403
+200073344,RAMBOUILLET TERRITOIRES,CA,,https://www.data.gouv.fr/fr/organizations/580e1e1388ee385e8e13e4cb,580e1e1388ee385e8e13e4cb,11,Île-de-France,78,Yvelines,48.625134,1.824707
+245901160,COMMUNAUTE AGGLO VALENCIENNES METROPOLE,CA,https://valenciennesmetro.opendatasoft.com/explore/?sort=modified&refine.publisher=CAVM,,,32,Hauts-de-France,59,Nord,50.362457,3.525686
+247000011,COMMUNAUTE D AGGLOMERATION DE VESOUL,CA,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5cd5862c8b4c412132ddb84c/,5cd5862c8b4c412132ddb84c,27,Bourgogne-Franche-Comté,70,Haute-Saône,47.61835,6.152408
+200068989,CA DINAN AGGLOMERATION,CA,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.455631,-2.058462
+248300493,DRACENIE PROVENCE VERDON AGGLOMERATION,CA,https://trouver.datasud.fr/organization/dracenie-provence-verdon-agglomeration,https://www.data.gouv.fr/fr/organizations/5baa4a978b4c412a0da6114c/,5baa4a978b4c412a0da6114c,93,Provence-Alpes-Côte d'Azur,83,Var,43.537614,6.465404
+200043172,COMMUNAUTE D AGGLOMERATION DU BASSIN DE BRIVE,CA,,https://www.data.gouv.fr/fr/organizations/5c9e2c5d634f412729e9e460/,5c9e2c5d634f412729e9e460,75,Nouvelle-Aquitaine,19,Corrèze,45.159227,1.541561
+246200729,COMMUNAUTE D AGGLOMERATION DU BOULONNAIS,CA,,https://www.data.gouv.fr/fr/organizations/5970a76d88ee38216d112aa1/,5970a76d88ee38216d112aa1,32,Hauts-de-France,62,Pas-de-Calais,50.722327,1.597169
+200067205,CA DU COTENTIN,CA,https://www.opendata-manche.fr/web/guest/donnees,,,28,Normandie,50,Manche,49.634352,-1.654065
+200044618,DOUAISIS AGGLO,CA,,https://www.data.gouv.fr/fr/organizations/59ce086088ee3865cbc4328f/,59ce086088ee3865cbc4328f,32,Hauts-de-France,59,Nord,50.397151,3.101128
+242500361,CU GRAND BESANCON METROPOLE,CA,https://data.grandbesancon.fr,https://www.data.gouv.fr/fr/organizations/59196e9088ee38471c78dac6,59196e9088ee38471c78dac6,27,Bourgogne-Franche-Comté,25,Doubs,47.2347,6.01537
+200023737,COMMUNAUTE D AGGLOMERATION DU GRAND CAHORS,CA,,https://www.data.gouv.fr/fr/organizations/589d6e22c751df0ff0ae0a65,589d6e22c751df0ff0ae0a65,76,Occitanie,46,Lot,44.446218,1.439927
+248900334,CA DU GRAND SENONAIS,CA,https://trouver.ternum-bfc.fr/organization/communaute-dagglomeration-du-grand-senonais,https://www.data.gouv.fr/fr/datasets/5c2f22d6634f416a515cb152/,5c2f22d6634f416a515cb152,27,Bourgogne-Franche-Comté,89,Yonne,48.195291,3.285098
+242010056,COMMUNAUTE D AGGLOMERATION DU PAYS AJACCIEN,CA,https://opendata.ca-ajaccien.corsica/ouverture-des-donnees-publiques-du-pays-ajaccien/donnees/,https://www.data.gouv.fr/fr/organizations/5540eb53c751df7dafe96a3b,5540eb53c751df7dafe96a3b,94,Corse,2A,Corse-du-Sud,41.929866,8.738556
+200039857,CA DU PAYS DE GRASSE,CA,https://opendata.sictiam.fr/fr/organization/ca-du-pays-de-grasse,https://www.data.gouv.fr/fr/organizations/5afae4b088ee3854d32fa3d9/,5afae4b088ee3854d32fa3d9,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.656709,6.9307
+243500782,CA DU PAYS DE SAINT MALO AGGLOMERATION,CA,https://data.stmalo-agglomeration.fr/explore/?refine.publisher=SAINT-MALO+AGGLOMERATION,https://www.data.gouv.fr/fr/organizations/5492db21c751df7a9c04805a,5492db21c751df7a9c04805a,53,Bretagne,35,Ille-et-Vilaine,48.67433,-1.867128
+200073419,COMMUNAUTE D AGGLOMERATION DU PUY EN VELAY,CA,https://opendata.agglo-lepuyenvelay.fr/geonetwork/srv/fre/catalog.search#/search?facet.q=type%2Fdataset%26sourceCatalog%2F1c86ee62-a93b-4bf6-8f19-9e162a587920&resultType=details&sortBy=relevance&fast=index&_content_type=json&from=1&to=20,,,84,Auvergne-Rhône-Alpes,43,Haute-Loire,45.047292,3.876563
+200071892,CA DU SAINT QUENTINOIS,CA,http://opendata.agglo-saintquentinois.fr/datasets,,,32,Hauts-de-France,02,Aisne,49.841761,3.284852
+200034700,DURANCE LUBERON VERDON AGGLOMERATION,CA,https://trouver.datasud.fr/organization/communaute-dagglomeration-durance-luberon-verdon,https://www.data.gouv.fr/es/organizations/5911d508c751df168e15a89f/,5911d508c751df168e15a89f,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,43.83373,5.782661
+200071454,CA EVREUX PORTES DE NORMANDIE,CA,https://epn-agglo.opendatasoft.com/explore/?sort=modified&refine.publisher=Evreux+Portes+de+Normandie+,,,28,Normandie,27,Eure,49.009167,1.157405
+200069821,FECAMP CAUX LITTORAL AGGLOMERATION,CA,https://data.estuairedelaseine.fr/,,,28,Normandie,76,Seine-Maritime,49.75109,0.414625
+200066124,CA GAILLAC GRAULHET,CA,,https://www.data.gouv.fr/fr/organizations/5ee28a82a4726888290c20c4/,5ee28a82a4726888290c20c4,76,Occitanie,81,Tarn,,
+200067825,CA GAP TALLARD DURANCE,CA,https://trouver.datasud.fr/organization/communaute-dagglomeration-de-gap-tallard-durance,,,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,44.558774,6.079671
+248400251,COMMUNAUTE D AGGLOMERATION DU GRAND AVIGNON,CA,,https://www.data.gouv.fr/fr/organizations/5a7ad2b1c751df27e7d1190c/,5a7ad2b1c751df27e7d1190c,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,43.909806,4.887533
+200069052,GRAND BELFORT COMMUNAUTE D AGGLOMERATION,CA,https://belfort-cab.opendata.arcgis.com/search,https://www.data.gouv.fr/fr/organizations/5afd7ce888ee387d9f4e136f/,5afd7ce888ee387d9f4e136f,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,47.638459,6.863044
+247100589,CA LE GRAND CHALON,CA,https://www.databfc.fr/bfc/portail,,,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,46.779863,4.845234
+200069110,GRAND CHAMBERY,CA,https://donnees.grandchambery.fr/explore/?refine.publisher=Grand+Chamb%C3%A9ry,https://www.data.gouv.fr/fr/organizations/5ba24dc9634f41611dc498cc/,5ba24dc9634f41611dc498cc,84,Auvergne-Rhône-Alpes,73,Savoie,45.598967,5.896428
+200010650,COMMUNAUTE D AGGLOMERATION DU GRAND DOLE,CA,,https://www.data.gouv.fr/fr/organizations/5e2086a38b4c41778e8f75bc/,5e2086a38b4c41778e8f75bc,27,Bourgogne-Franche-Comté,39,Jura,47.090454,5.488904
+200034825,COMMUNAUTE D AGGLOMERATION DU GRAND GUERET,CA,,https://www.data.gouv.fr/fr/organizations/5cc0c79b8b4c414c13d12d0a/,5cc0c79b8b4c414c13d12d0a,75,Nouvelle-Aquitaine,23,Creuse,46.170889,1.874464
+200059228,CA GRAND PARIS SUD SEINE ESSONNE SENART,CA,https://data.grandparissud.fr/explore/?refine.publisher=Grand+Paris+Sud,https://www.data.gouv.fr/fr/organizations/59133d14c751df2fa69bfb86/,59133d14c751df2fa69bfb86,11,Île-de-France,91,Essonne,48.623016,2.423132
+243400819,COMMUNAUTE D AGGLOMERATION HERAULT MEDITERRANEE,CA,,https://www.data.gouv.fr/fr/organizations/5bac83c9634f4106bc21d00b/,5bac83c9634f4106bc21d00b,76,Occitanie,34,Hérault,43.391214,3.419152
+248500589,LA ROCHE SUR YON AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/5f106ce48370b7ac5ed923f0/,5f106ce48370b7ac5ed923f0,52,Pays de la Loire,85,Vendée,46.671005,-1.429652
+241700434,COMMUNAUTE D AGGLOMERATION LA ROCHELLE,CA,"https://opendata2.agglo-larochelle.fr/portail?facet.field=[%22organization%22,%22tags%22,%22theme%22,%22features%22]&rows=10&start=0&fq=organization:(communaute_dagglomeration_de_la_rochelle)",https://www.data.gouv.fr/fr/organizations/5ae6b61b88ee382152cd61a9/,5ae6b61b88ee382152cd61a9,75,Nouvelle-Aquitaine,17,Charente-Maritime,46.159783,-1.149986
+200065928,CA LANNION TREGOR COMMUNAUTE,CA,http://datarmor.cotesdarmor.fr/web/guest/donnees,https://www.data.gouv.fr/fr/organizations/595254f888ee384d9d265130,595254f888ee384d9d265130,53,Bretagne,22,Côtes-d'Armor,48.756354,-3.449292
+200069532,CA LISIEUX NORMANDIE,CA,https://data.estuairedelaseine.fr,https://www.data.gouv.fr/fr/organizations/5ddcf096634f411f920b844d/,5ddcf096634f411f920b844d,28,Normandie,14,Calvados,49.142701,0.226954
+200065886,LOIRE FOREZ AGGLOMERATION LFA,CA,,https://www.data.gouv.fr/fr/organizations/5bed6ebf8b4c41329a5f7d1f/,5bed6ebf8b4c41329a5f7d1f,84,Auvergne-Rhône-Alpes,42,Loire,45.608644,4.061736
+200042174,LORIENT AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/55b8c85288ee3827203ca288,55b8c85288ee3827203ca288,53,Bretagne,56,Morbihan,47.743926,-3.351726
+200070308,CA MACONNAIS BEAUJOLAIS AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/5c0f89d4634f41198d4a53e8/,5c0f89d4634f41198d4a53e8,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,46.314497,4.837394
+200069425,CA MONT SAINT MICHEL NORMANDIE,CA,https://www.opendata-manche.fr/web/guest/donnees,,,28,Normandie,50,Manche,48.685338,-1.351699
+244500203,COMMUNAUTE D AGGLOMERATION MONTARGOISE ET RIVES DU LOING,CA,,https://www.data.gouv.fr/fr/organizations/5bfd11e4634f4170344a961b/,5bfd11e4634f4170344a961b,24,Centre-Val de Loire,45,Loiret,47.997743,2.736235
+200071140,CA MOULINS COMMUNAUTE,CA,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider[]=Communaut%C3%A9%20de%20Communes%20du%20Pays%20de%20Chevagnes%20en%20Sologne&from=0,,,84,Auvergne-Rhône-Alpes,03,Allier,46.561833,3.330486
+200066009,CA MULHOUSE ALSACE AGGLOMERATION,CA,https://data.mulhouse-alsace.fr/explore/?refine.publisher=Mulhouse+Alsace+Agglom%C3%A9ration,https://www.data.gouv.fr/fr/organizations/5be06c41634f4158c956b300/,5be06c41634f4158c956b300,44,Grand Est,68,Haut-Rhin,47.749928,7.33623
+200056232,CA COMMUNAUTE PARIS SACLAY,CA,https://opendata.paris-saclay.com/explore/?refine.publisher=Communaut%C3%A9+d%27agglom%C3%A9ration+Paris-Saclay,,,11,Île-de-France,91,Essonne,48.709439,2.175463
+200067254,CA PAU BEARN PYRENEES,CA,https://opendata.agglo-pau.fr/catal2.html,,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.293403,-0.370591
+240100750,COMMUNAUTE D AGGLOMERATION DU PAYS DE GEX,CA,,https://www.data.gouv.fr/fr/organizations/5f199bd29460ebdaddd95b99/,5f199bd29460ebdaddd95b99,84,Auvergne-Rhône-Alpes,01,Ain,46.330914,6.05819
+200069037,CA DU PAYS DE SAINT OMER,CA,,https://www.data.gouv.fr/fr/organizations/5e848e61eed811f6b7cdc220/,5e848e61eed811f6b7cdc220,32,Hauts-de-France,62,Pas-de-Calais,50.738635,2.275445
+200067791,COMMUNAUTE D AGGLOMERATION PAYS FOIX VARILHES,CA,,https://www.data.gouv.fr/fr/organizations/5bd9cd77634f413406c077fd/,5bd9cd77634f413406c077fd,76,Occitanie,09,Ariège,42.960363,1.609389
+200056380,COMMUNAUTE D AGGLOMERATION PLAINE VALLEE,CA,,https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-plaine-vallee/,,11,Île-de-France,95,Val-d'Oise,48.98923,2.320732
+243800604,COMMUNAUTE D AGGLOMERATION PORTE DE L ISERE,CA,,https://www.data.gouv.fr/fr/organizations/5c516739634f4121096513af/,5c516739634f4121096513af,84,Auvergne-Rhône-Alpes,38,Isère,45.620197,5.22968
+200071413,CA PRIVAS CENTRE ARDECHE,CA,,https://www.data.gouv.fr/fr/organizations/5cadb863634f41514da8fa0c/,5cadb863634f41514da8fa0c,84,Auvergne-Rhône-Alpes,07,Ardèche,44.734372,4.600368
+200067437,CA PROVENCE ALPES AGGLOMERATION,CA,https://trouver.datasud.fr/organization/provence-alpes-agglomeration,,,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,44.089608,6.233043
+200068120,CA QUIMPER BRETAGNE OCCIDENTALE,CA,,https://www.data.gouv.fr/fr/organizations/5a82e90b88ee387c99662abb/,5a82e90b88ee387c99662abb,53,Bretagne,29,Finistère,47.996194,-4.102035
+243500741,CA REDON AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/59679365c751df12bcc44bba,59679365c751df12bcc44bba,53,Bretagne,35,Ille-et-Vilaine,47.652999,-2.094286
+200067965,CA AGGLOMERATION DE LA REGION DE COMPIEGNE ET DE LA BASSE AUTOMNE,CA,,https://www.data.gouv.fr/fr/organizations/5e2af3758b4c41693ce44aa3/,5e2af3758b4c41693ce44aa3,32,Hauts-de-France,60,Oise,49.417732,2.825644
+200035731,ROANNAIS AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/5ae0518e88ee3874bffdf173/,5ae0518e88ee3874bffdf173,84,Auvergne-Rhône-Alpes,42,Loire,46.03576,4.071037
+241200187,RODEZ AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/5bf2d970634f414ab5643cee/,5bf2d970634f414ab5643cee,76,Occitanie,12,Aveyron,44.350496,2.573945
+241700640,AGGLOMERATION ROYAN ATLANTIQUE,CA,https://data.agglo-royan.fr/dataset,https://www.data.gouv.fr/fr/organizations/56ab6daa88ee3859ece82d6e,56ab6daa88ee3859ece82d6e,75,Nouvelle-Aquitaine,17,Charente-Maritime,45.638664,-1.025321
+200069409,CA SAINT BRIEUC ARMOR AGGLOMERATION,CA,http://datarmor.cotesdarmor.fr/web/guest/donnees,https://www.data.gouv.fr/fr/organizations/5acb2f2088ee3813a476714d/,5acb2f2088ee3813a476714d,53,Bretagne,22,Côtes-d'Armor,48.511417,-2.763536
+200066058,CA SAINT LOUIS AGGLOMERATION,CA,,https://www.data.gouv.fr/fr/organizations/5a7c19f5c751df3e55b0c321,5a7c19f5c751df3e55b0c321,44,Grand Est,68,Haut-Rhin,47.587031,7.564718
+200066355,CA SETE AGGLOPOLE MEDITERRANEE,CA,http://opendata.agglopole.fr,https://www.data.gouv.fr/fr/organizations/5d1cacb18b4c416d9490f4a2/,5d1cacb18b4c416d9490f4a2,76,Occitanie,34,Hérault,43.437309,3.70919
+243100633,COMMUNAUTE D AGGLOMERATION DU SICOVAL,CA,https://data.sicoval.fr/explore/?refine.publisher=Sicoval+-+communaut%C3%A9+d%27agglom%C3%A9ration+du+Sud-Est+toulousain,https://www.data.gouv.fr/fr/organizations/586b79b3c751df75b32b7154,586b79b3c751df75b32b7154,76,Occitanie,31,Haute-Garonne,43.544117,1.505566
+240600585,COMMUNAUTE D AGGLOMERATION DE SOPHIA ANTIPOLIS,CA,https://trouver.datasud.fr/organization/communaute-dagglomeration-sophia-antipolis,https://www.data.gouv.fr/fr/organizations/5a71cf5fc751df19bcdb5d11/,5a71cf5fc751df19bcdb5d11,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.580746,7.127431
+200072072,COMMUNAUTE D AGGLOMERATION TERRITOIRES VENDOMOIS,CA,,https://www.data.gouv.fr/fr/organizations/5c067f178b4c410e40e88183/,5c067f178b4c410e40e88183,24,Centre-Val de Loire,41,Loir-et-Cher,47.798233,1.046077
+245701222,COMMUNAUTE D AGGLOMERATION DU VAL DE FENSCH,CA,,https://www.data.gouv.fr/fr/organizations/5d3193bb634f4103f485c9f9/,5d3193bb634f4103f485c9f9,44,Grand Est,57,Moselle,49.329156,6.065871
+200035319,ESTEREL COTE D AZUR AGGLOMERATION,CA,https://trouver.datasud.fr/organization/communaute-dagglomeration-var-esterel-mediterranee,https://www.data.gouv.fr/fr/organizations/5f57789537198fbe468ac537/,5f57789537198fbe468ac537,93,Provence-Alpes-Côte d'Azur,83,Var,43.436856,6.772314
+248400053,COMMUNAUTE D AGGLOMERATION VENTOUX COMTAT VENAISSIN,CA,https://trouver.datasud.fr/organization/communaute-dagglomeration-ventoux-comtat-venaissin,https://www.data.gouv.fr/fr/organizations/5c62d28e8b4c414299ae8286/,5c62d28e8b4c414299ae8286,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,44.059319,5.067539
+247800584,COMMUNAUTE AGGLOMERATION VERSAILLES GRAND PARC,CA,http://www-cavgp.opendata.arcgis.com/datasets,https://www.data.gouv.fr/fr/organizations/58c5a537c751df2fb0fde3c9/,58c5a537c751df2fb0fde3c9,11,Île-de-France,78,Yvelines,48.801528,2.130958
+200077014,CA VIENNE CONDRIEU,CA,,https://www.data.gouv.fr/fr/organizations/5f6af29ff7ae06ea64a234d1/,5f6af29ff7ae06ea64a234d1,84,Auvergne-Rhône-Alpes,38,Isère,45.513213,4.865758
+219400165,COMMUNE DE CACHAN,COM,https://cachan.opendatasoft.com/explore/?sort=explore.popularity_score&refine.publisher=Ville+de+Cachan,,,11,Île-de-France,94,Val-de-Marne,48.787851,2.320847
+211401187,COMMUNE DE CAEN,COM,,https://www.data.gouv.fr/fr/organizations/5d9b54b3634f4164bb0bec9d/,5d9b54b3634f4164bb0bec9d,28,Normandie,14,Calvados,49.181029,-0.371116
+221401185,DEPARTEMENT DU CALVADOS,DEP,,https://www.data.gouv.fr/fr/organizations/departement-du-calvados/,5bd96f848b4c415ecb7a9a8b,28,Normandie,14,Calvados,49.18134,-0.366253
+215600305,COMMUNE DE CAMOEL,COM,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=Camoël,,,53,Bretagne,56,Morbihan,47.481987,-2.392134
+214900540,COMMUNE DE CANDE,COM,https://www.opendata49.fr/index.php?id=38,,,52,Pays de la Loire,49,Maine-et-Loire,47.556132,-1.042685
+221500010,DEPARTEMENT DU CANTAL,DEP,,https://www.data.gouv.fr/fr/organizations/534fff69a3a7292c64a77d94,534fff69a3a7292c64a77d94,84,Auvergne-Rhône-Alpes,15,Cantal,44.927126,2.445976
+216401661,COMMUNE DE CARO,COM,,https://www.data.gouv.fr/fr/organizations/5e6622e5634f417ab82d46ec/,5e6622e5634f417ab82d46ec,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+213101132,COMMUNE DE CASTANET TOLOSAN,COM,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Commune+de+Castanet-Tolosan,,,76,Occitanie,31,Haute-Garonne,43.520425,1.496095
+213101181,COMMUNE DE CASTELNAU D ESTRETEFONDS,COM,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Commune+de+Castelnau-d%27Estr%C3%A9tefonds,,,76,Occitanie,31,Haute-Garonne,43.783744,1.357543
+213400575,COMMUNE DE CASTELNAU LE LEZ,COM,http://data.montpellier3m.fr/datasets/commune/castelnau-le-lez,,,76,Occitanie,34,Hérault,43.632442,3.898383
+211100763,COMMUNE DE CASTELNAUDARY,COM,,https://www.data.gouv.fr/fr/organizations/58d2805b88ee3830ab40dd02,58d2805b88ee3830ab40dd02,76,Occitanie,11,Aude,43.317334,1.952579
+213400583,COMMUNE DE CASTRIES,COM,http://data.montpellier3m.fr/datasets/commune/castries,,,76,Occitanie,34,Hérault,43.677568,3.985313
+213101355,COMMUNE DE CAZERES,COM,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Commune+de+Caz%C3%A8res-sur-Garonne,,,76,Occitanie,31,Haute-Garonne,43.205898,1.086493
+246500573,COMMUNAUTE DE COMMUNES AURE LOURON,CC,https://opendata.ha-py.fr/pages/vallees-aure-louron/,,,76,Occitanie,65,Hautes-Pyrénées,42.902127,0.355769
+244900882,CC BAUGEOIS VALLEE,CC,,https://www.data.gouv.fr/fr/organizations/communaute-de-communes-vallee-des-baux-alpilles/,5c06560f634f417ac74c46cc,52,Pays de la Loire,49,Maine-et-Loire,47.537981,-0.098041
+200066371,CC CAUSSES ET VALLEE DE LA DORDOGNE,CC,,https://www.data.gouv.fr/fr/organizations/5bb5cf6f634f413b3b296999/,5bb5cf6f634f413b3b296999,76,Occitanie,46,Lot,44.9081543,1.4955639
+200033116,COMMUNAUTE DE COMMUNES CLUSES ARVE ET MONTAGNES,CC,,https://www.data.gouv.fr/fr/organizations/5f5e6cf238617ce5be60d259/,5f5e6cf238617ce5be60d259,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,46.057295,6.58159
+241400415,COMMUNAUTE COMMUNES COEUR COTE FLEURIE,CC,http://data.coeurcotefleurie.org/dataset,https://www.data.gouv.fr/fr/organizations/59f846d588ee380840aa2865/,59f846d588ee380840aa2865,28,Normandie,14,Calvados,49.360082,0.074209
+245901152,CC COEUR D OSTREVENT,CC,,https://www.data.gouv.fr/fr/organizations/5c937ac98b4c41415cbe68c8/,5c937ac98b4c41415cbe68c8,32,Hauts-de-France,59,Nord,50.33728,3.165252
+200068815,COMMUNAUTE DE COMMUNES COEUR DE GARONNE,CC,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Communaut%C3%A9+de+Communes+Coeur+de+Garonne,,,76,Occitanie,31,Haute-Garonne,43.206271,1.088913
+200072098,CC COMBRAILLES SIOULE ET MORGE,CC,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider[]=Communaut%C3%A9%20de%20Communes%20Manzat%20Communaut%C3%A9&from=0,,,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,45.961481,2.941141
+200039204,CC DE LACQ ORTHEZ,CC,https://opendata.cc-lacqorthez.fr/explore/?sort=modified&refine.publisher=CCLO,,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.36121,-0.625593
+200041515,CC DU BASSIN DE PONT A MOUSSON,CC,,https://www.data.gouv.fr/fr/organizations/5c18eb5a634f41110ca05145/,5c18eb5a634f41110ca05145,44,Grand Est,54,Meurthe-et-Moselle,48.923093,6.035887
+240500439,COMMUNAUTE COMMUNES DU BRIANCONNAIS,CC,https://trouver.datasud.fr/organization/communaute-de-communes-du-brianconnais,,,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,44.898161,6.644335
+200034957,COMMUNAUTE DE COMMUNES DU FRONTONNAIS,CC,,https://www.data.gouv.fr/fr/organizations/583ef3d9c751df6abcc0bb7e,583ef3d9c751df6abcc0bb7e,76,Occitanie,31,Haute-Garonne,43.780804,1.404801
+200070530,CC DU GRAND AUTUNOIS MORVAN,CC,,https://www.data.gouv.fr/fr/organizations/5c46ef148b4c416a35762335/,5c46ef148b4c416a35762335,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,46.948471,4.283421
+240300491,COMMUNAUTE COM PAYS DE LAPALISSE,CC,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider[]=Communaut%C3%A9%20de%20Communes%20du%20Pays%20de%20Lapalisse&from=0,,,84,Auvergne-Rhône-Alpes,03,Allier,46.250043,3.638381
+200072080,CC DU PAYS DE SAINT ELOY,CC,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider[]=Communaut%C3%A9%20de%20Communes%20Coeur%20de%20Combrailles&from=0,,,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,46.162919,2.835357
+241501139,COMMUNAUTE DE COMMUNES DU PAYS DE SALERS,CC,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider[]=Communaut%C3%A9%20de%20Communes%20du%20Pays%20de%20Salers&from=0,,,84,Auvergne-Rhône-Alpes,15,Cantal,45.138892,2.493518
+246900740,COMMUNAUTE DE COMMUNE DU PAYS MORNANTAIS,CC,,https://www.data.gouv.fr/fr/organizations/5bbdad47634f410fb7e37ca7/,5bbdad47634f410fb7e37ca7,84,Auvergne-Rhône-Alpes,69,Rhône,45.627253,4.670144
+248400236,CC DU PAYS REUNI D ORANGE,CC,https://trouver.datasud.fr/organization/communaute-de-communes-du-pays-reuni-dorange,,,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,44.141372,4.80495
+246000566,COMMUNAUTE DE COMMUNES DU PLATEAU PICARD,CC,,https://www.data.gouv.fr/fr/organizations/596c880888ee387e51f2c2f6/,596c880888ee387e51f2c2f6,32,Hauts-de-France,60,Oise,49.50981,2.448665
+243500667,CC VAL D ILLE AUBIGNE,CC,,https://www.data.gouv.fr/fr/organizations/57daa20388ee385c305ff491,57daa20388ee385c305ff491,53,Bretagne,35,Ille-et-Vilaine,48.245629,-1.717737
+242600252,CC DU VAL DE DROME EN BIOVALLEE,CC,,https://www.data.gouv.fr/fr/organizations/5dfcf3126f44410ff204c4a8/,5dfcf3126f44410ff204c4a8,84,Auvergne-Rhône-Alpes,26,Drôme,44.736073,4.978483
+200065894,CC DE FOREZ EST,CC,,https://www.data.gouv.fr/fr/organizations/5d1dba2d634f41226ef05b97/,5d1dba2d634f41226ef05b97,84,Auvergne-Rhône-Alpes,42,Loire,45.744019,4.227485
+200066637,HAUTES TERRES COMMUNAUTE,CC,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider[]=Communaut%C3%A9%20de%20Communes%20du%20C%C3%A9zallier&from=0,,,84,Auvergne-Rhône-Alpes,15,Cantal,45.11087,2.869814
+200069086,CC LEFF ARMOR COMMUNAUTE,CC,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.624723,-2.994951
+244000865,COMMUNAUTE DE COMMUNES MAREMNE ADOUR COTE SUD,CC,https://www.pigma.org/datanouvelleaquitaine/dataset?organization=cc_de_maremne_adour_cote_sud,,,75,Nouvelle-Aquitaine,40,Landes,43.661725,-1.315769
+243500550,MONTFORT COMMUNAUTE,CC,,https://www.data.gouv.fr/fr/organizations/5b18fb70c751df1da631a2da/,5b18fb70c751df1da631a2da,53,Bretagne,35,Ille-et-Vilaine,48.138347,-1.956585
+200070787,COMMUNAUTE DE COMMUNES DU PLATEAU DE LANNEMEZAN,CC,https://opendata.ha-py.fr/pages/plateau-de-lannemezan/,,,76,Occitanie,65,Hautes-Pyrénées,43.125895,0.384783
+248400319,COMMUNAUTE DE COMMUNES PAYS DES SORGUES MONTS DE VAUCLUSE,CC,https://trouver.datasud.fr/dataset?organization=communaute-de-communes-pays-des-sorgues-monts-de-vaucluse&_organization_limit=0,,,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,43.922281,5.02476
+200071199,CC PLAINE LIMAGNE,CC,http://opendata.auvergnerhonealpes.eu/7-les-donnees.htm?facet.provider[]=Communaut%C3%A9%20de%20Communes%20Limagne%20Bords%20Allier&from=0,,,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,46.022741,3.202648
+242900744,COMMUNAUTE DE COMMUNES DE POHER COMMUNAUTE,CC,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,29,Finistère,48.275293,-3.574878
+200068377,CC DE LA PORTE DES VOSGES MERIDIONALES,CC,,https://www.data.gouv.fr/fr/organizations/5d78beaf8b4c413699601db9/,5d78beaf8b4c413699601db9,44,Grand Est,88,Vosges,48.021284,6.602376
+200040491,COMMUNAUTE DE COMMUNES PORTE DE DROMARDECHE,CC,,https://www.data.gouv.fr/fr/organizations/communaute-de-communes-porte-de-dromardeche-1/,,84,Auvergne-Rhône-Alpes,26,Drôme,45.165582,4.821778
+200066884,CC QUERCY VERT AVEYRON,CC,,https://www.data.gouv.fr/fr/organizations/5d838f9b6f444174735e1e0a/,5d838f9b6f444174735e1e0a,76,Occitanie,82,Tarn-et-Garonne,44.074865,1.516101
+200068146,COMMUNAUTE DE COMMUNES SARREBOURG MOSELLE SUD,CC,,https://www.data.gouv.fr/fr/organizations/5bd9653a634f417672a9dd46/,5bd9653a634f417672a9dd46,44,Grand Est,57,Moselle,48.72223,7.043154
+243100773,COMMUNAUTE DE COMMUNES VAL AIGO,CC,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Communaut%C3%A9+de+Communes+de+Val+A%C3%AFgo,,,76,Occitanie,31,Haute-Garonne,43.86082,1.500555
+249100546,COMMUNAUTE DE COMMUNES DU VAL D ESSONNE,CC,,https://www.data.gouv.fr/fr/organizations/communaute-de-communes-du-val-dessonne/,,11,Île-de-France,91,Essonne,48.528094,2.379738
+200041465,VAL EYRIEUX,CC,https://opendata.ardeche.fr/search/og_group_ref/67/type/dataset?sort_by=changed,,,84,Auvergne-Rhône-Alpes,07,Ardèche,44.91003,4.425554
+241300375,CC VALLEE DES BAUX ALPILLES CC VBA,CC,,https://www.data.gouv.fr/fr/organizations/5bfbf1548b4c412a0cdc6c70/,5bfbf1548b4c412a0cdc6c70,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.794258,4.777899
+200034718,COMMUNAUTE DE COMMUNES DE VITRY CHAMPAGNE ET DER,CC,,https://www.data.gouv.fr/fr/organizations/5a32371888ee387affdaa88d/,5a32371888ee387affdaa88d,44,Grand Est,51,Marne,48.725061,4.588742
+263300626,CENTRE COMMUNAL D ACTION SOCIALE,AGCT,https://opendata.bordeaux-metropole.fr/explore/?disjunctive.publisher&disjunctive.frequence&disjunctive.territoire&sort=title&refine.publisher=CCAS+de+la+ville+de+Bordeaux,,,75,Nouvelle-Aquitaine,33,Gironde,44.838204,-0.582317
+234500023,REGION CENTRE VAL DE LOIRE,REG,https://data.centrevaldeloire.fr/explore/?sort=explore.popularity_score&refine.publisher=R%C3%A9gion+Centre-Val+de+Loire,,,24,Centre-Val de Loire,45,Loiret,47.901147,1.909558
+217700673,COMMUNE CESSON,COM,https://data.ville-cesson.fr/explore/?refine.publisher=Commune+de+Cesson,,,11,Île-de-France,77,Seine-et-Marne,48.562467,2.602677
+213500515,COMMUNE DE CESSON SEVIGNE,COM,https://data.rennesmetropole.fr/explore/?refine.publisher=Ville+de+Cesson-S%C3%A9vign%C3%A9,,,53,Bretagne,35,Ille-et-Vilaine,48.119445,-1.603015
+215101015,COMMUNE DE CHALONS EN CHAMPAGNE,COM,,https://www.data.gouv.fr/fr/organizations/5badf0508b4c412b0839e0f4/,5badf0508b4c412b0839e0f4,44,Grand Est,51,Marne,48.956649,4.362286
+217300656,COMMUNE DE CHAMBERY,COM,https://donnees.grandchambery.fr/explore/?refine.publisher=Ville+de+Chamb%C3%A9ry,,,84,Auvergne-Rhône-Alpes,73,Savoie,45.566256,5.920496
+200075810,CHAMBERY GRAND LAC ECONOMIE,AGCT,,https://www.data.gouv.fr/fr/organizations/5bcf2a798b4c412f2198fab2/,5bcf2a798b4c412f2198fab2,84,Auvergne-Rhône-Alpes,73,Savoie,45.644052,5.867371
+216900407,COMMUNE DE CHAMPAGNE AU MONT D OR,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Champagne-au-Mont-d%27Or,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.794817,4.790897
+217700798,COMMUNE DE CHAMPAGNE SUR SEINE,COM,,https://www.data.gouv.fr/fr/organizations/5846e4ae88ee3811d6c65bb3/,5846e4ae88ee3811d6c65bb3,11,Île-de-France,77,Seine-et-Marne,48.394755,2.804427
+221600018,DEPARTEMENT DE LA CHARENTE,DEP,https://data16.lacharente.fr/donnees/recherche/,,,75,Nouvelle-Aquitaine,16,Charente,45.645692,0.157959
+221700016,DEPARTEMENT DE LA CHARENTE MARITIME,DEP,,https://www.data.gouv.fr/fr/organizations/59b6449a88ee38073588ac9d,59b6449a88ee38073588ac9d,75,Nouvelle-Aquitaine,17,Charente-Maritime,46.138254,-1.151307
+830836698,COMITE DEPARTEMENTAL DU TOURISME DES CHARENTES,OACT,https://data16.lacharente.fr/donnees/recherche/,,,75,Nouvelle-Aquitaine,16,Charente,45.646599,0.1561
+807667316,SOCIETE PUBLIQUE LOCALE CHARTRES METROPOLE TRANSPORTS,DSPT,,https://www.data.gouv.fr/fr/organizations/5c35c8518b4c416fe6cb42c9/,5c35c8518b4c416fe6cb42c9,24,Centre-Val de Loire,28,Eure-et-Loir,48.443867,1.487956
+216902718,COMMUNE DE CHASSIEU,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Chassieu,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.743581,4.972311
+200064483,COMMUNE DE CHATEAUGIRON,COM,,https://www.data.gouv.fr/fr/organizations/5dc1b1c08b4c41677012618b/,5dc1b1c08b4c41677012618b,53,Bretagne,35,Ille-et-Vilaine,48.053572,-1.461401
+213600448,COMMUNE DE CHATEAUROUX,COM,https://data.chateauroux-metropole.fr/explore/?sort=title&refine.publisher=VILLE+DE+CHATEAUROUX,,,24,Centre-Val de Loire,36,Indre,46.811543,1.691936
+217801463,COMMUNE DE CHATOU,COM,,https://www.data.gouv.fr/fr/organizations/5c9e2bfb634f41255724d4ca/,5c9e2bfb634f41255724d4ca,11,Île-de-France,78,Yvelines,48.889732,2.157006
+219200227,COMMUNE DE CHAVILLE,COM,https://chaville-seineouest.opendatasoft.com/explore/?sort=title,https://www.data.gouv.fr/fr/organizations/5437e8c288ee387cb68f5e87,5437e8c288ee387cb68f5e87,11,Île-de-France,92,Hauts-de-Seine,48.809448,2.188689
+216001446,COMMUNE DE CHELLES,COM,https://chelles-agglo-pvm.opendata.arcgis.com,,,32,Hauts-de-France,60,Oise,,
+219400199,COMMUNE DE CHENNEVIERES SUR MARNE,COM,"https://chennevieres.data4citizen.com/portail?facet.field=[%22organization%22,%22tags%22,%22theme%22,%22features%22]&rows=10&start=0&fq=organization:(chennevieres)",,,11,Île-de-France,94,Val-de-Marne,48.796304,2.532609
+310679055,CITEDIA SERVICES,DSPT,https://data.rennesmetropole.fr/explore/?refine.publisher=Cit%C3%A9dia,,,53,Bretagne,35,Ille-et-Vilaine,48.104748,-1.682103
+213400773,COMMUNE DE CLAPIERS,COM,http://data.montpellier3m.fr/datasets/commune/clapiers,,,76,Occitanie,34,Hérault,43.662789,3.889459
+216301135,COMMUNE DE CLERMONT FERRAND,COM,https://opendata.clermontmetropole.eu/search?source=ville%20de%20clermont-ferrand,,,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,45.779685,3.086073
+246300701,CLERMONT AUVERGNE METROPOLE,MET,https://opendata.clermontmetropole.eu/search?source=clermont%20auvergne%20métropole,,,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,45.7808,3.103654
+218300424,COMMUNE DE COGOLIN,COM,,https://www.data.gouv.fr/fr/organizations/5bac7fb68b4c414fe45d8cee/,5bac7fb68b4c414fe45d8cee,93,Provence-Alpes-Côte d'Azur,83,Var,43.251674,6.533473
+213101496,COMMUNE DE COLOMIERS,COM,https://data.toulouse-metropole.fr/explore/?refine.publisher=Mairie+de+Colomiers,,,76,Occitanie,31,Haute-Garonne,43.6099,1.334372
+217701226,COMMUNE COMBS LA VILLE,COM,https://combslaville-grandparissud.opendatasoft.com/explore/?refine.publisher=Mairie+de+Combs-la-Ville,,,11,Île-de-France,77,Seine-et-Marne,48.664408,2.565602
+215901521,COMMUNE DE COMINES,COM,,https://www.data.gouv.fr/fr/organizations/593fb6b788ee3810680f7775,593fb6b788ee3810680f7775,32,Hauts-de-France,59,Nord,50.76535,3.006798
+301072880,COMITE REGIONAL TOURISME ILE DE FRANCE,OACT,https://data.iledefrance.fr/explore/?refine.publisher=Comit%C3%A9+r%C3%A9gional+du+tourisme,,,11,Île-de-France,75,Paris,48.871755,2.347801
+249730045,CA DU CENTRE LITTORAL,CA,https://data.cacl-guyane.fr/,,,3,Guyane,973,Guyane,4.888879,-52.348278
+568500680,COMPAGNIE DES TRANSPORTS STRASBOURGEOIS,DSPT,,https://www.data.gouv.fr/fr/organizations/5ae16ff988ee3848de337bb3/,5ae16ff988ee3848de337bb3,44,Grand Est,67,Bas-Rhin,48.592623,7.733373
+217801729,COMMUNE DE CONFLANS SAINTE HONORINE,COM,https://data.ville-conflans.fr/login/,,,11,Île-de-France,78,Yvelines,48.993685,2.094956
+182019208,CORSE COMPETENCES,OACT,https://www.data.corsica/explore/?refine.publisher=GIP+Corse+Comp%C3%A9tences,,,94,Corse,2A,Corse-du-Sud,41.921087,8.738934
+222100018,DEPARTEMENT DE COTE D OR,DEP,https://trouver.ternum-bfc.fr/organization/conseil-departemental-de-cote-dor,,,27,Bourgogne-Franche-Comté,21,Côte-d'Or,47.324825,5.042427
+222200016,DEPARTEMENT DES COTES D ARMOR,DEP,http://datarmor.cotesdarmor.fr/web/guest/donnees,https://www.data.gouv.fr/fr/organizations/54aff788c751df39e138127d,54aff788c751df39e138127d,53,Bretagne,22,Côtes-d'Armor,48.513961,-2.764912
+217701317,COMMUNE COULOMMIERS,COM,,https://www.data.gouv.fr/fr/organizations/534fff6ba3a7292c64a77da2,534fff6ba3a7292c64a77da2,11,Île-de-France,77,Seine-et-Marne,48.812161,3.084258
+217001817,COMMUNE DE COURCUIRE,COM,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5c937c53634f414c0c84251d/,5c937c53634f414c0c84251d,27,Bourgogne-Franche-Comté,70,Haute-Saône,,
+213400872,COMMUNE DE COURNONSEC,COM,http://data.montpellier3m.fr/datasets/commune/cournonsec,,,76,Occitanie,34,Hérault,43.548765,3.705102
+213400880,COMMUNE DE COURNONTERRAL,COM,http://data.montpellier3m.fr/datasets/commune/cournonterral,,,76,Occitanie,34,Hérault,43.555494,3.717276
+217701390,COMMUNE DE COURTRY,COM,https://courtry-agglo-pvm.opendata.arcgis.com/search?collection=Dataset,https://www.data.gouv.fr/fr/organizations/5ee8ce78f450050a4fa6a1d3/,5ee8ce78f450050a4fa6a1d3,11,Île-de-France,77,Seine-et-Marne,48.918627,2.604866
+820657971,COMITE REGIONAL DU TOURISME DE BOURGOGNE FRANCHE COMTE,OACT,https://trouver.ternum-bfc.fr/organization/comite-regional-du-tourisme-bourgogne-franche-comte-tourisme,,,27,Bourgogne-Franche-Comté,21,Côte-d'Or,47.327763,5.043791
+245900428,COMMUNAUTE URBAINE DE DUNKERQUE,CU,https://data.dunkerque-agglo.fr/explore/?sort=modified&refine.publisher=Communauté+urbaine+de+Dunkerque,https://www.data.gouv.fr/fr/organizations/5c123930634f4179b683b998/,5c123930634f4179b683b998,32,Hauts-de-France,59,Nord,51.036493,2.370767
+200069854,GRAND POITIERS COMMUNAUTE URBAINE,CU,https://data.grandpoitiers.fr/explore/?refine.publisher=Grand+Poitiers+,https://www.data.gouv.fr/fr/organizations/54da1f52c751df59f7467389,54da1f52c751df59f7467389,75,Nouvelle-Aquitaine,86,Vienne,46.58019,0.340719
+200067213,COMMUNAUTE URBAINE DU GRAND REIMS,CU,,https://www.data.gouv.fr/fr/organizations/5aabc0ecc751df25cba8382b/,5aabc0ecc751df25cba8382b,44,Grand Est,51,Marne,49.255165,4.036108
+200084952,LE HAVRE SEINE METROPOLE,CU,https://data.lehavreseinemetropole.fr/#,https://www.data.gouv.fr/fr/organizations/59bfa079c751df6dad38dc0d/,59bfa079c751df6dad38dc0d,28,Normandie,76,Seine-Maritime,49.495033,0.104816
+213101579,COMMUNE DE CUGNAUX,COM,,https://www.data.gouv.fr/fr/organizations/58d27ed688ee383022f3994b/,58d27ed688ee383022f3994b,76,Occitanie,31,Haute-Garonne,43.537157,1.344627
+200067064,CC DECAZEVILLE COMMUNAUTE,CC,,https://www.data.gouv.fr/fr/organizations/5e2067046f444136d7dd0c1e/,5e2067046f444136d7dd0c1e,76,Occitanie,12,Aveyron,44.558601,2.255031
+227900016,DEPARTEMENT DES DEUX SEVRES,DEP,,https://www.data.gouv.fr/fr/organizations/59ba4600c751df6bbdb72c11,59ba4600c751df6bbdb72c11,75,Nouvelle-Aquitaine,79,Deux-Sèvres,46.329824,-0.459704
+217602176,COMMUNE DE DIEPPE,COM,https://opendata.adico.fr/fr/dataset?organization=commune-de-dieppe,,,28,Normandie,76,Seine-Maritime,49.929087,1.101057
+210400701,COMMUNE DE DIGNE LES BAINS,COM,https://trouver.datasud.fr/organization/ville-de-digne-les-bains,,,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,44.092977,6.236329
+211701404,COMMUNE DE DOLUS D OLERON,COM,,https://www.data.gouv.fr/fr/organizations/5c8a2eaa8b4c412414de233d/,5c8a2eaa8b4c412414de233d,75,Nouvelle-Aquitaine,17,Charente-Maritime,45.910703,-1.264589
+218801413,COMMUNE DE DOMBROT SUR VAIR,COM,,https://www.data.gouv.fr/fr/organizations/5d3708eb634f411ba1f2be68/,5d3708eb634f411ba1f2be68,44,Grand Est,88,Vosges,48.265288,5.888374
+218801561,COMMUNE DE DONCIERES,COM,,https://www.data.gouv.fr/fr/organizations/5e32a7e86f4441203195aaa3/,5e32a7e86f4441203195aaa3,44,Grand Est,88,Vosges,48.394647,6.635291
+214400525,COMMUNE DE DONGES,COM,https://data.agglo-carene.fr/explore/?refine.publisher=Donges,,,52,Pays de la Loire,44,Loire-Atlantique,47.33439,-2.0812
+222500019,DEPARTEMENT DU DOUBS,DEP,https://opendata.doubs.fr/explore/?refine.publisher=CD25,,,27,Bourgogne-Franche-Comté,25,Doubs,47.2321,6.02312
+200037729,SYNDICAT MIXTE DOUBS TRES HAUT DEBIT,AGCT,https://opendata.doubs.fr/explore/?refine.publisher=Syndicat+Mixte+Doubs+Tr%C3%A8s+Haut+Debit,,,27,Bourgogne-Franche-Comté,25,Doubs,47.150632,6.342956
+218300507,COMMUNE DE DRAGUIGNAN,COM,,https://www.data.gouv.fr/fr/organizations/5bfd0fce634f416c97b0b0a9/,5bfd0fce634f416c97b0b0a9,93,Provence-Alpes-Côte d'Azur,83,Var,43.538037,6.463509
+212801344,COMMUNE DE DREUX,COM,,https://www.data.gouv.fr/fr/organizations/5a82b75a88ee3827fadf1afb/,5a82b75a88ee3827fadf1afb,24,Centre-Val de Loire,28,Eure-et-Loir,48.736223,1.370522
+213801517,COMMUNE D ECHIROLLES,COM,https://data.metropolegrenoble.fr/ckan/dataset?organization=ville-d-echirolles,https://www.data.gouv.fr/fr/organizations/5e296fbc6f44414102ba0b85/,5e296fbc6f44414102ba0b85,84,Auvergne-Rhône-Alpes,38,Isère,45.148346,5.718805
+216800789,COMMUNE DE EGUISHEIM,COM,,https://www.data.gouv.fr/fr/organizations/5c6ac6e58b4c417067851df5/,5c6ac6e58b4c417067851df5,44,Grand Est,68,Haut-Rhin,48.042054,7.309602
+217701697,COMMUNE EMERAINVILLE,COM,https://emerainville-agglo-pvm.opendata.arcgis.com/,,,11,Île-de-France,77,Seine-et-Marne,48.811733,2.621577
+215901968,COMMUNE D ENNETIERES EN WEPPES,COM,https://opendata.lillemetropole.fr/explore/?&refine.publisher=commune+Enneti%C3%A8res+en+Weppes,,,32,Hauts-de-France,59,Nord,50.634936,2.93908
+200057974,GRAND PARIS SEINE OUEST,EPT,https://data.seineouest.fr/explore/?sort=records_count&refine.publisher=Seine+Ouest,https://www.data.gouv.fr/fr/organizations/543e77eb88ee380c0d999949,543e77eb88ee380c0d999949,11,Île-de-France,92,Hauts-de-Seine,48.820054,2.24214
+216402222,COMMUNE D ETCHEBAR,COM,,https://www.data.gouv.fr/fr/organizations/5ef5cd7ae1f79fd615a5b369/,5ef5cd7ae1f79fd615a5b369,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+219102258,COMMUNE D ETIOLLES,COM,https://etiolles-grandparissud.opendatasoft.com/explore/?sort=modified,,,11,Île-de-France,91,Essonne,48.63676,2.47178
+200058014,GRAND ORLY SEINE BIEVRE,EPT,,https://www.data.gouv.fr/fr/organizations/grand-orly-seine-bievre/,5ae1810ac751df0cca42918d,11,Île-de-France,94,Val-de-Marne,48.788617,2.388681
+200058006,GRAND PARIS SUD EST AVENIR,EPT,https://data.sudestavenir.fr/,,,11,Île-de-France,94,Val-de-Marne,48.76486,2.469805
+222702292,DEPARTEMENT DE L EURE,DEP,https://opendata.eure.fr/search,,,28,Normandie,27,Eure,49.025634,1.142694
+222800013,DEPARTEMENT DE L EURE ET LOIR,DEP,https://data.eurelien.fr/explore/?refine.publisher=CD28,https://www.data.gouv.fr/fr/organizations/58b3e7e588ee3814c598d150,58b3e7e588ee3814c598d150,24,Centre-Val de Loire,28,Eure-et-Loir,48.447421,1.484197
+246700488,EUROMETROPOLE DE STRASBOURG,MET,https://data.strasbourg.eu/explore/?sort=modified&refine.publisher=Eurom%C3%A9tropole+de+Strasbourg,https://www.data.gouv.fr/fr/organizations/59d2b2dc88ee3826a73899be,59d2b2dc88ee3826a73899be,44,Grand Est,67,Bas-Rhin,48.573419,7.75297
+481611135,EUSKAL HERRIKO LABORANTZA GANBARA,OACT,https://www.pigma.org/datanouvelleaquitaine/dataset?organization=euskal_herriko_laborantza_ganbara,,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+830336558,MARFINA PAYS DE MONTBELIARD,DSPT,,https://www.data.gouv.fr/fr/organizations/5e5e5afe8b4c41422da2d227/,5e5e5afe8b4c41422da2d227,27,Bourgogne-Franche-Comté,25,Doubs,47.481843,6.818456
+200083525,COMMUNE DE EVRY COURCOURONNES,COM,,https://www.data.gouv.fr/fr/organizations/ville-devrycourcouronnes/,,11,Île-de-France,91,Essonne,48.624194,2.429024
+210600599,COMMUNE D EZE,COM,,https://www.data.gouv.fr/fr/organizations/5c388d5a8b4c415b415729d7/,5c388d5a8b4c415b415729d7,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.722911,7.358145
+213400955,COMMUNE DE FABREGUES,COM,http://data.montpellier3m.fr/datasets/commune/fabr%C3%A8gues,,,76,Occitanie,34,Hérault,43.549595,3.779053
+210700886,COMMUNE DE FAUGERES,COM,,https://www.data.gouv.fr/fr/organizations/57ad996ac751df5e2c97bae5/,57ad996ac751df5e2c97bae5,84,Auvergne-Rhône-Alpes,07,Ardèche,44.475371,4.137191
+214400574,COMMUNE DE FEGREAC,COM,,https://www.data.gouv.fr/fr/organizations/5bb35a75634f410c19c29451/,5bb35a75634f410c19c29451,52,Pays de la Loire,44,Loire-Atlantique,47.586212,-2.042261
+215600586,COMMUNE DE FEREL,COM,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=Férel,,,53,Bretagne,56,Morbihan,47.48229,-2.342908
+222900011,DEPARTEMENT DU FINISTERE,DEP,https://opendata.finistere.fr/explore/?refine.publisher=D%C3%A9partement+du+Finist%C3%A8re,https://www.data.gouv.fr/fr/organizations/5a86b30588ee38553adbaa6e/,5a86b30588ee38553adbaa6e,53,Bretagne,29,Finistère,47.994686,-4.101425
+214200958,COMMUNE DE FIRMINY,COM,,https://www.data.gouv.fr/fr/organizations/5d15b4d8634f4151ec5b1550/,5d15b4d8634f4151ec5b1550,84,Auvergne-Rhône-Alpes,42,Loire,45.388469,4.287554
+211402714,COMMUNE DE FLEURY SUR ORNE,COM,https://data.fleurysurorne.fr/explore/?refine.publisher=Ville+de+Fleury-sur-Orne,,,28,Normandie,14,Calvados,49.146011,-0.379249
+213101843,COMMUNE DE FLOURENS,COM,https://data.toulouse-metropole.fr/explore/?refine.publisher=Mairie+de+Flourens,,,76,Occitanie,31,Haute-Garonne,,
+213101876,COMMUNE DE FONSORBES,COM,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Commune+de+Fonsorbes,,,76,Occitanie,31,Haute-Garonne,43.535627,1.230733
+211300397,COMMUNE DE FOS SUR MER,COM,https://fos-sur-mer.opendatasoft.com/explore/?sort=modified&refine.publisher=Commune+de+Fos-Sur-Mer,,,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.452914,4.943234
+218300614,COMMUNE DE FREJUS,COM,https://trouver.datasud.fr/dataset?_organization_limit=0&organization=ville-de-frejus,,,93,Provence-Alpes-Côte d'Azur,83,Var,43.43284,6.736665
+255502262,FEDER UNIFIEE COLLEC LOCAL ELECTRI MEUSE,AGCT,,https://www.data.gouv.fr/fr/organizations/5b34a85fc751df441182f347/,5b34a85fc751df441182f347,44,Grand Est,55,Meuse,48.765888,5.157787
+216402289,COMMUNE DE GABAT,COM,,https://www.data.gouv.fr/fr/organizations/5e53e62a634f41661560452d/,5e53e62a634f41661560452d,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+216402297,COMMUNE DE GAMARTHE,COM,,https://www.data.gouv.fr/fr/organizations/5ef5b74d7dd541efb59254fb/,5ef5b74d7dd541efb59254fb,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+213401110,COMMUNE DE GANGES,COM,,https://www.data.gouv.fr/fr/organizations/5c45a5c18b4c4104123ed6d5/,5c45a5c18b4c4104123ed6d5,76,Occitanie,34,Hérault,43.935371,3.708931
+219502689,COMMUNE DE GARGES LES GONESSE,COM,"https://garges.data4citizen.com/portail?facet.field=[%22organization%22,%22tags%22,%22theme%22,%22features%22]&rows=10&start=0&fq=organization:(ville_de_gargeslesgonesse)",,,11,Île-de-France,95,Val-d'Oise,48.971668,2.400322
+200043115,SM E COLLECTIVITES,AGCT,https://data-vendee-fr-paysdelaloire.opendatasoft.com/explore/?refine.publisher=Géo+Vendée,https://www.data.gouv.fr/fr/organizations/5c18fe498b4c4115a1a7ee80/,5c18fe498b4c4115a1a7ee80,52,Pays de la Loire,85,Vendée,46.671368,-1.399626
+223200015,DEPARTEMENT DU GERS,DEP,https://data.gers.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Département+du+Gers,https://www.data.gouv.fr/fr/organizations/5d2485a58b4c417f5f478a9f/,56f3b0a6c751df13e653faef,76,Occitanie,32,Gers,43.639783,0.598564
+130004658,GROUPEMENT D INTERET PUBLIC LITTORAL AQUITAIN,OACT,https://www.pigma.org/datanouvelleaquitaine/dataset/plages-nouvelle-aquitaine-covid,,,75,Nouvelle-Aquitaine,33,Gironde,44.831786,-0.6405
+187609110,GIP SEINE AVAL,OACT,https://opendata.seine-aval.fr,,,28,Normandie,76,Seine-Maritime,49.443128,1.074337
+223300013,DEPARTEMENT DE LA GIRONDE,DEP,https://www.datalocale.fr/dataset?organization=cd33,https://www.data.gouv.fr/fr/organizations/534fff67a3a7292c64a77d83/,534fff67a3a7292c64a77d83,75,Nouvelle-Aquitaine,33,Gironde,44.837742,-0.584513
+781843750,AGENCE DE DEVELOPPEMENT TOURISTIQUE DE LA GIRONDE,OACT,,https://www.data.gouv.fr/fr/organizations/534fff62a3a7292c64a77d5b/,534fff62a3a7292c64a77d5b,75,Nouvelle-Aquitaine,33,Gironde,44.838067,-0.588191
+213401169,COMMUNE DE GRABELS,COM,http://data.montpellier3m.fr/datasets/commune/grabels,,,76,Occitanie,34,Hérault,43.647551,3.801765
+200052264,REGION GRAND EST,REG,http://data.grandest.fr/donnees,https://www.data.gouv.fr/fr/organizations/55df259f88ee386e57a46ec2,55df259f88ee386e57a46ec2,44,Grand Est,67,Bas-Rhin,48.598792,7.760417
+775701253,GRAND PORT MARITIME DE ROUEN,DSPT,https://data.estuairedelaseine.fr,,,28,Normandie,76,Seine-Maritime,49.444464,1.070314
+775700198,GRAND PORT MARITIME DU HAVRE,DSPT,https://data.estuairedelaseine.fr,,,28,Normandie,76,Seine-Maritime,49.492909,0.129767
+215002189,COMMUNE DE GRANVILLE,COM,,https://www.data.gouv.fr/fr/organizations/5c6ab1d98b4c41356c6fa89a/,5c6ab1d98b4c41356c6fa89a,28,Normandie,50,Manche,48.838006,-1.596452
+213801855,COMMUNE DE GRENOBLE,COM,http://data.metropolegrenoble.fr/ckan/dataset?organization=grenoble,https://www.data.gouv.fr/fr/organizations/5733038988ee38472ed1b934/,5733038988ee38472ed1b934,84,Auvergne-Rhône-Alpes,38,Isère,45.186436,5.736047
+200040715,METROPOLE GRENOBLE ALPES METROPOLE METRO,MET,http://data.metropolegrenoble.fr/ckan/dataset?organization=grenoble-alpes-metropole,https://www.data.gouv.fr/fr/organizations/5732ff7788ee382b08d1b934,5732ff7788ee382b08d1b934,84,Auvergne-Rhône-Alpes,38,Isère,45.188801,5.73914
+239710015,CONSEIL REGIONAL DE LA GUADELOUPE,REG,https://regionguadeloupe.opendatasoft.com/explore/?sort=modified,,,1,Guadeloupe,971,Guadeloupe,16.000385,-61.717212
+214400673,COMMUNE DE GUEMENE PENFAO,COM,,https://www.data.gouv.fr/fr/organizations/5b8fe384634f414b25ea1d30/,5b8fe384634f414b25ea1d30,52,Pays de la Loire,44,Loire-Atlantique,47.628521,-1.834242
+214400699,COMMUNE DE GUERANDE,COM,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=Guérande,,,52,Pays de la Loire,44,Loire-Atlantique,47.327571,-2.426379
+215600784,COMMUNE DE GUIDEL,COM,https://www.opendata56.fr/explore/?refine.publisher=Ville+de+Guidel,,,53,Bretagne,56,Morbihan,47.789337,-3.488905
+212200703,COMMUNE DE GUINGAMP,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.561513,-3.148813
+442638698,GWAD AIR,OACT,https://data-gwadair.opendata.arcgis.com/datasets,,,1,Guadeloupe,971,Guadeloupe,16.235997,-61.588416
+216402552,COMMUNE D HALSOU,COM,,https://www.data.gouv.fr/fr/organizations/5e4fd909634f41282fea1334/,5e4fd909634f41282fea1334,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.376894,-1.425253
+223100017,DEPARTEMENT DE LA HAUTE GARONNE,DEP,https://data.haute-garonne.fr/explore/?refine.publisher=Conseil+départemental+de+la+Haute-Garonne,https://www.data.gouv.fr/fr/organizations/582a045088ee3875cec65bb4,582a045088ee3875cec65bb4,76,Occitanie,31,Haute-Garonne,43.615663,1.436756
+327216875,COMITE DEP TOURISME HTE GARONNE,OACT,https://data.haute-garonne.fr/explore/?refine.publisher=Comit%C3%A9+D%C3%A9partemental+du+Tourisme+de+la+Haute-Garonne+(CDT31),,,76,Occitanie,31,Haute-Garonne,43.608662,1.447594
+220500011,DEPARTEMENT DES HAUTES ALPES,DEP,https://trouver.datasud.fr/organization/conseil-departemental-des-hautes-alpes,https://www.data.gouv.fr/fr/organizations/5a98083188ee387ee20c3cdb/,5a98083188ee387ee20c3cdb,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,44.557929,6.077446
+226500015,DEPARTEMENT DES HAUTES PYRENEES,DEP,https://opendata.ha-py.fr/explore/?refine.publisher=D%C3%A9partement+des+Hautes-Pyr%C3%A9n%C3%A9es,https://www.data.gouv.fr/fr/organizations/5c3f1ca2634f411d2aef4ddb/,5c3f1ca2634f411d2aef4ddb,76,Occitanie,65,Hautes-Pyrénées,43.232569,0.07028
+200053742,REGION HAUTS DE FRANCE,REG,http://opendata.hautsdefrance.fr/dataset,https://www.data.gouv.fr/fr/organizations/5df935d8634f414e69469492/,5df935d8634f414e69469492,32,Hauts-de-France,59,Nord,50.629768,3.078399
+229200506,DEPARTEMENT DES HAUTS DE SEINE,DEP,https://opendata.hauts-de-seine.fr/explore/?refine.publisher=D%C3%A9partement+des+Hauts-de-Seine,https://www.data.gouv.fr/fr/organizations/544e1b0888ee38289ae1ed05,544e1b0888ee38289ae1ed05,11,Île-de-France,92,Hauts-de-Seine,48.896158,2.231193
+809413586,HAWA MAYOTTE,OACT,https://data-hawa-mayotte.opendata.arcgis.com/datasets,,,6,Mayotte,976,Mayotte,-12.756486,45.228401
+223400011,DEPARTEMENT DE L HERAULT,DEP,https://www.herault-data.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Conseil+D%C3%A9partemental+de+l%27H%C3%A9rault,,,76,Occitanie,34,Hérault,43.62333,3.836766
+322148834,COMITE DEPART TOURISME HERAULT,OACT,https://www.herault-data.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=H%C3%A9rault+Tourisme,,,76,Occitanie,34,Hérault,43.62333,3.836766
+214400723,COMMUNE D HERBIGNAC,COM,https://data.paysdelaloire.fr/explore/?disjunctive.diffuseur&disjunctive.gestionnaire&disjunctive.publisher&source=shared&sort=title&refine.publisher=Herbignac,,,52,Pays de la Loire,44,Loire-Atlantique,47.449286,-2.315981
+775684483,INSTITUT AMENAG URBANISME ILE DE FRANCE,OACT,http://data.iau-idf.fr/datasets,https://www.data.gouv.fr/fr/organizations/534fff7da3a7292c64a77e23/,534fff7da3a7292c64a77e23,11,Île-de-France,75,Paris,48.843406,2.317008
+213501331,COMMUNE DE IFFENDIC,COM,,https://www.data.gouv.fr/fr/organizations/5b32535988ee380dd6e257de/,5b32535988ee380dd6e257de,53,Bretagne,35,Ille-et-Vilaine,48.129147,-2.034732
+237500079,REGION ILE DE FRANCE,REG,https://data.iledefrance.fr/explore/?refine.publisher=R%C3%A9gion+%C3%8Ele-de-France,https://www.data.gouv.fr/fr/organizations/534fffa8a3a7292c64a780c8,534fffa8a3a7292c64a780c8,11,Île-de-France,93,Seine-Saint-Denis,48.912395,2.331462
+287500078,ILE DE FRANCE MOBILITES,OACT,https://opendata.stif.info/explore/?refine.publisher=Ile-de-France+Mobilit%C3%A9s,https://www.data.gouv.fr/fr/organizations/568e5e9488ee38033aaf0bf4/,568e5e9488ee38033aaf0bf4,11,Île-de-France,75,Paris,48.876051,2.335796
+223500018,DEPARTEMENT D ILLE ET VILAINE,DEP,,https://www.data.gouv.fr/fr/organizations/5d15cbed8b4c411740bae4bc/,5d15cbed8b4c411740bae4bc,53,Bretagne,35,Ille-et-Vilaine,48.127132,-1.693496
+223600016,DEPARTEMENT DE L INDRE,DEP,,https://www.data.gouv.fr/fr/organizations/5a82f34188ee380c10423e48/,5a82f34188ee380c10423e48,24,Centre-Val de Loire,36,Indre,46.812027,1.687127
+223700014,DEPARTEMENT DE L INDRE ET LOIRE,DEP,https://data-cd37.opendata.arcgis.com/search,https://www.data.gouv.fr/fr/organizations/5733002788ee384aabd1b934/,5733002788ee384aabd1b934,24,Centre-Val de Loire,37,Indre-et-Loire,47.39313,0.691007
+259401099,SYNDICAT MIXTE DU SECTEUR CENTRAL DU VAL DE MARNE INFOCOM 94,AGCT,"https://data.infocom94.fr/portail?facet.field=[%22organization%22,%22tags%22,%22theme%22,%22features%22]&rows=10&start=0&fq=organization:(infocom94)",,,11,Île-de-France,94,Val-de-Marne,48.789755,2.510297
+223800012,DEPARTEMENT DE L ISERE,DEP,https://opendata.isere.fr/explore/?sort=modified&refine.publisher=D%C3%A9partement+de+l%27Is%C3%A8re,https://www.data.gouv.fr/fr/organizations/5bb1c7e4634f412a95dff6b9/,5bb1c7e4634f412a95dff6b9,84,Auvergne-Rhône-Alpes,38,Isère,45.18702,5.732997
+219200409,COMMUNE D ISSY LES MOULINEAUX,COM,https://data.issy.com/explore/?disjunctive.features&disjunctive.theme&disjunctive.keyword&disjunctive.publisher&sort=modified&refine.publisher=Ville+d%27Issy-les-Moulineaux,https://www.data.gouv.fr/fr/organizations/534fffb7a3a7292c64a78145,534fffb7a3a7292c64a78145,11,Île-de-France,92,Hauts-de-Seine,48.824399,2.273824
+211300470,COMMUNE D ISTRES,COM,https://www.istres.fr/index.php?id=618,,,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.516532,4.98954
+216402792,COMMUNE D ITXASSOU,COM,,https://www.data.gouv.fr/fr/organizations/5da489756f44414bcf4c45dd/,5da489756f44414bcf4c45dd,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.334261,-1.406727
+213401201,COMMUNE DE JACOU,COM,http://data.montpellier3m.fr/datasets/commune/jacou,,,76,Occitanie,34,Hérault,43.660702,3.910026
+216402834,COMMUNE DE JAXU,COM,,https://www.data.gouv.fr/fr/organizations/5e53cddb634f4113415b3a67/,5e53cddb634f4113415b3a67,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+223900010,DEPARTEMENT DU JURA,DEP,https://trouver.ternum-bfc.fr/organization/departement-du-jura,,,27,Bourgogne-Franche-Comté,39,Jura,46.671706,5.554598
+213401235,COMMUNE DE JUVIGNAC,COM,http://data.montpellier3m.fr/datasets/commune/juvignac,,,76,Occitanie,34,Hérault,43.614595,3.815179
+487875593,KEOLIS AGEN,DSPT,,https://www.data.gouv.fr/fr/organizations/5bfe67b8634f4121765f58f3/,5bfe67b8634f4121765f58f3,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,44.194806,0.65071
+804363521,KEOLIS BUS VERTS,DSPT,,https://www.data.gouv.fr/fr/organizations/5d13756e8b4c415ad792a83e/,5d13756e8b4c415ad792a83e,28,Normandie,14,Calvados,49.168433,-0.321844
+572028660,KEOLIS CAEN,DSPT,,https://www.data.gouv.fr/fr/organizations/5c09189f8b4c414a8d02298e/,5c09189f8b4c414a8d02298e,11,Île-de-France,75,Paris,48.873497,2.338944
+523576395,KEOLIS CHAUMONT,DSPT,,https://www.data.gouv.fr/fr/organizations/5c5063ec8b4c412d63742601/,5c5063ec8b4c412d63742601,44,Grand Est,52,Haute-Marne,48.103519,5.153333
+844404392,KEOLIS MENTON RIVIERA,DSPT,,https://www.data.gouv.fr/fr/organizations/5ea19ef9a0a58ece59bee631/,5ea19ef9a0a58ece59bee631,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.780782,7.493311
+340035526,KEOLIS RENNES,DSPT,https://data.explore.star.fr/explore/?refine.publisher=STAR,,,53,Bretagne,35,Ille-et-Vilaine,48.110937,-1.63635
+814870853,COMPAGNIE DES TRANSPORTS GOLFE DU MORBIHAN VANNES AGGLOMERATION CTGMVA,DSPT,,https://www.data.gouv.fr/fr/organizations/5a6f24a4c751df613f36c422/,5a6f24a4c751df613f36c422,53,Bretagne,56,Morbihan,47.681689,-2.766507
+214400558,COMMUNE DE LA BAULE ESCOUBLAC,COM,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=La+Baule-Escoublac,,,52,Pays de la Loire,44,Loire-Atlantique,47.282674,-2.394572
+215901430,COMMUNE DE LA CHAPELLE D ARMENTIERES,COM,,https://www.data.gouv.fr/fr/organizations/5b518bb188ee3863608f3fac/,5b518bb188ee3863608f3fac,32,Hauts-de-France,59,Nord,50.672731,2.896481
+214400301,COMMUNE DE LA CHAPELLE DES MARAIS,COM,https://data.agglo-carene.fr/explore/?refine.publisher=La+Chapelle+des+Marais,,,52,Pays de la Loire,44,Loire-Atlantique,47.44668,-2.24293
+210600656,COMMUNE DE LA GAUDE,COM,,https://www.data.gouv.fr/fr/organizations/5ba9f0bb634f416762d56c0c/,5ba9f0bb634f416762d56c0c,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,,
+213502032,COMMUNE DE LA NOUAYE,COM,,https://www.data.gouv.fr/fr/organizations/5b3495d188ee382f97297bdc/,5b3495d188ee382f97297bdc,53,Bretagne,35,Ille-et-Vilaine,48.16225,-1.976886
+239740012,REGION REUNION,REG,https://data.regionreunion.com/explore/?disjunctive.theme&disjunctive.modified&disjunctive.publisher&sort=modified&refine.publisher=Conseil+Régional+La+Réunion,,,4,La Réunion,974,La Réunion,-20.903743,55.487023
+218501914,COMMUNE DE LA ROCHE SUR YON,COM,https://data.larochesuryon.fr/explore/?refine.publisher=Ville+de+la+Roche-sur-Yon,,,52,Pays de la Loire,85,Vendée,46.671005,-1.429652
+211703004,COMMUNE DE LA ROCHELLE,COM,https://opendata.larochelle.fr/dataset/?metakey=dataset_property&metaval=140,https://www.data.gouv.fr/fr/organizations/5821930b88ee386862c65bb3/,5821930b88ee386862c65bb3,75,Nouvelle-Aquitaine,17,Charente-Maritime,46.159748,-1.15146
+218301265,COMMUNE DE LA SEYNE SUR MER,COM,https://opendata.sictiam.fr/fr/organization/mairie-de-la-seyne-sur-mer,,,93,Provence-Alpes-Côte d'Azur,83,Var,43.101973,5.880777
+211704523,COMMUNE DE LA TREMBLADE,COM,,https://www.data.gouv.fr/fr/organizations/5c8a2ec6634f411c5580a72b/,5c8a2ec6634f411c5580a72b,75,Nouvelle-Aquitaine,17,Charente-Maritime,45.770501,-1.140081
+212203855,COMMUNE DE LA VICOMTE SUR RANCE,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.489858,-1.988607
+216402974,COMMUNE DE LACARRE,COM,,https://www.data.gouv.fr/fr/organizations/5e737cd7dbab7593c0db3802/,5e737cd7dbab7593c0db3802,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+218802585,COMMUNE DE LAMARCHE,COM,,https://www.data.gouv.fr/fr/organizations/5d6629786f444132f99e032c/,5d6629786f444132f99e032c,44,Grand Est,88,Vosges,48.069241,5.781603
+212200943,COMMUNE DE LANCIEUX,COM,http://datarmor.cotesdarmor.fr/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.603803,-2.15078
+215600982,COMMUNE DE LANESTER,COM,https://www.opendata56.fr/explore/?refine.publisher=Ville+de+Lanester,https://www.data.gouv.fr/fr/organizations/59d6526ac751df274a175d35/,59d6526ac751df274a175d35,53,Bretagne,56,Morbihan,47.764087,-3.346838
+212201131,COMMUNE DE LANNION,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.732107,-3.458631
+216403139,COMMUNE DE LANTABAT,COM,,https://www.data.gouv.fr/fr/organizations/commune-de-lantabat/,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+213401292,COMMUNE DE LATTES,COM,http://data.montpellier3m.fr/datasets/commune/lattes,,,76,Occitanie,34,Hérault,43.567968,3.902165
+213401342,COMMUNE DE LAVERUNE,COM,http://data.montpellier3m.fr/datasets/commune/lav%C3%A9rune,,,76,Occitanie,34,Hérault,43.584789,3.803644
+219101797,COMMUNE DE COUDRAY MONTCEAUX,COM,https://data.coudray-montceaux.fr/explore/?refine.publisher=Mairie+du+Coudray-Montceaux,,,11,Île-de-France,91,Essonne,48.565652,2.4859
+213400906,COMMUNE DE LE CRES,COM,http://data.montpellier3m.fr/datasets/commune/le-cr%C3%A8s,,,76,Occitanie,34,Hérault,43.650037,3.937535
+214400491,COMMUNE DU CROISIC,COM,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=Le+Croisic,,,52,Pays de la Loire,44,Loire-Atlantique,47.293459,-2.513259
+217603513,COMMUNE DE LE HAVRE,COM,https://data.lehavreseinemetropole.fr/#,https://www.data.gouv.fr/fr/organizations/5a3a7cd8c751df3092aea45a/,5a3a7cd8c751df3092aea45a,28,Normandie,76,Seine-Maritime,49.494266,0.106813
+217201813,COMMUNE DU MANS,COM,http://www.lemans.fr/citoyen/la-collectivite/lopen-data/les-contenus-en-open-data/,,,52,Pays de la Loire,72,Sarthe,48.007393,0.196696
+503486870,MOTIF OBSERVATOIRE DU LIVRE ET DE L ECRIT EN ILE DE FRANCE,OACT,https://data.iledefrance.fr/explore/?refine.publisher=MOTif,,,11,Île-de-France,75,Paris,48.875095,2.376719
+214702011,COMMUNE DU PASSAGE,COM,,https://www.data.gouv.fr/fr/organizations/5ab24b9188ee385d43b29616/,5ab24b9188ee385d43b29616,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,44.200982,0.602675
+214401200,COMMUNE DU PELLERIN,COM,https://data.nantesmetropole.fr/explore/?refine.publisher=Le+Pellerin,,,52,Pays de la Loire,44,Loire-Atlantique,47.190783,-1.771209
+219400587,COMMUNE LE PERREUX SUR MARNE,COM,,https://www.data.gouv.fr/fr/organizations/534fff85a3a7292c64a77ea9,534fff85a3a7292c64a77ea9,11,Île-de-France,94,Val-de-Marne,48.836648,2.496309
+213601594,COMMUNE DE LE POINCONNET,COM,https://data.centrevaldeloire.fr/explore/?q=le+poin%C3%A7onnet&sort=explore.popularity_score,,,24,Centre-Val de Loire,36,Indre,46.770794,1.737572
+214401358,COMMUNE DU POULIGUEN,COM,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=Le+Pouliguen,,,52,Pays de la Loire,44,Loire-Atlantique,47.269422,-2.424833
+218300986,COMMUNE LE PRADET,COM,,https://www.data.gouv.fr/fr/organizations/58f5d64788ee3847b91e4f32,58f5d64788ee3847b91e4f32,93,Provence-Alpes-Côte d'Azur,83,Var,43.106636,6.019316
+219300456,COMMUNE DES LILAS,COM,,https://www.data.gouv.fr/fr/organizations/534fff86a3a7292c64a77eab,534fff86a3a7292c64a77eab,11,Île-de-France,93,Seine-Saint-Denis,48.87948,2.415368
+219200441,COMMUNE DE LEVALLOIS PERRET,COM,,https://www.data.gouv.fr/fr/organizations/ville-de-levallois/,,11,Île-de-France,92,Hauts-de-Seine,48.893219,2.28869
+213302433,COMMUNE DE LIBOURNE,COM,"https://data.libourne.fr/portail?facet.field=[%22organization%22,%22tags%22,%22theme%22,%22features%22]&rows=10&start=0&fq=organization:(la-ville-de-libourne)",,,75,Nouvelle-Aquitaine,33,Gironde,44.914821,-0.245036
+217702513,COMMUNE LIEUSAINT,COM,https://data.ville-lieusaint.fr/explore/?sort=title&refine.publisher=Mairie+de+Lieusaint,,,11,Île-de-France,77,Seine-et-Marne,48.631747,2.552001
+413095811,LIG AIR,OACT,https://data-ligair.opendata.arcgis.com/datasets,https://www.data.gouv.fr/fr/organizations/5be949a9634f415deb46af0e/,5be949a9634f415deb46af0e,24,Centre-Val de Loire,45,Loiret,47.815274,1.924834
+254402738,SYNDICAT MIXTE DE TRANSPORTS COLLECTIFS ROUTIERS DE LA PRESQU ILE DE GUERANDE ATLANANTIQUE,AGCT,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=Lila+Presqu%27ile,,,52,Pays de la Loire,44,Loire-Atlantique,47.326487,-2.416612
+215903501,COMMUNE DE LILLE,COM,https://opendata.lillemetropole.fr/explore/?refine.publisher=Ville+de+Lille,,,32,Hauts-de-France,59,Nord,50.630716,3.070358
+218708501,COMMUNE DE LIMOGES,COM,https://sig-ville-limoges.opendata.arcgis.com,https://www.data.gouv.fr/fr/organizations/54acf7fcc751df4851de6536,54acf7fcc751df4851de6536,75,Nouvelle-Aquitaine,87,Haute-Vienne,45.826597,1.260305
+216901165,COMMUNE DE LIMONEST,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Commune%20de%20Limonest,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.835627,4.771326
+211403662,COMMUNE DE LISIEUX,COM,,https://www.data.gouv.fr/fr/organizations/57835411c751df7f2ef3855e,57835411c751df7f2ef3855e,28,Normandie,14,Calvados,49.146097,0.227932
+219103405,COMMUNE DE LISSES,COM,https://lisses-grandparissud.opendatasoft.com/explore/?sort=modified&refine.publisher=Ville+de+Lisses,,,11,Île-de-France,91,Essonne,48.597557,2.422619
+224100016,DEPARTEMENT DU LOIR ET CHER,DEP,,https://www.data.gouv.fr/fr/organizations/534fff68a3a7292c64a77d8a,534fff68a3a7292c64a77d8a,24,Centre-Val de Loire,41,Loir-et-Cher,47.589721,1.333458
+224400028,DEPARTEMENT DE LA LOIRE ATLANTIQUE,DEP,https://data.loire-atlantique.fr/explore/?refine.publisher=Département+de+Loire-Atlantique,https://www.data.gouv.fr/fr/organizations/534fff6fa3a7292c64a77dc1/,534fff6fa3a7292c64a77dc1,52,Pays de la Loire,44,Loire-Atlantique,47.221007,-1.552377
+793698705,LOIRE ATLANTIQUE DEVELOPPEMENT GIE,OACT,https://data.loire-atlantique.fr/explore/?refine.publisher=Loire-Atlantique+Développement,https://www.data.gouv.fr/fr/organizations/534fff87a3a7292c64a77eb0/,534fff87a3a7292c64a77eb0,52,Pays de la Loire,44,Loire-Atlantique,47.204569,-1.554977
+315387209,COMITE DEPARTEMENTAL TOURISME,OACT,https://data.loire-atlantique.fr/explore/?refine.publisher=e-SPRIT,,,52,Pays de la Loire,44,Loire-Atlantique,47.243957,-1.536686
+224500017,DEPARTEMENT DU LOIRET,DEP,https://open-loiret.opendata.arcgis.com/datasets?source=Conseil%20d%C3%A9partemental%20du%20Loiret&t=donn%C3%A9es%20ouvertes,https://www.data.gouv.fr/fr/organizations/57d90ef4c751df44fb79df72,57d90ef4c751df44fb79df72,24,Centre-Val de Loire,45,Loiret,47.907885,1.910453
+219103454,COMMUNE DE LONGJUMEAU,COM,,https://www.data.gouv.fr/fr/organizations/534fff88a3a7292c64a77eb2,534fff88a3a7292c64a77eb2,11,Île-de-France,91,Essonne,48.694255,2.296288
+215903600,COMMUNE DE LOOS,COM,https://opendata.lillemetropole.fr/explore/?sort=modified&refine.publisher=Ville+de+Loos,,,32,Hauts-de-France,59,Nord,50.615113,3.014879
+215601212,COMMUNE DE LORIENT,COM,https://www.opendata56.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Ville+de+Lorient,https://www.data.gouv.fr/fr/organizations/59e05c6588ee386ef4f4f86d/,59e05c6588ee386ef4f4f86d,53,Bretagne,56,Morbihan,47.748254,-3.365787
+224600015,DEPARTEMENT DU LOT,DEP,,https://www.data.gouv.fr/fr/organizations/5ac5c34488ee386e5ad2bb40/,5ac5c34488ee386e5ad2bb40,76,Occitanie,46,Lot,44.467565,1.429797
+200067460,CC LOUDEAC COMMUNAUTE BRETAGNE CENTRE,CC,http://datarmor.cotesdarmor.fr/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.177645,-2.759338
+212703755,COMMUNE DE LOUVIERS,COM,,https://www.data.gouv.fr/fr/organizations/53806fe2a3a7297e4d35d6c6,53806fe2a3a7297e4d35d6c6,28,Normandie,27,Eure,49.214044,1.169269
+216901231,COMMUNE DE LYON,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Lyon,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.767808,4.835757
+423221795,ASS REGION SURVEIL QUALITE DE L AIR,OACT,https://data-madininair.opendata.arcgis.com/datasets,,,2,Martinique,972,Martinique,14.617234,-61.079222
+224900019,DEPARTEMENT DE MAINE ET LOIRE,DEP,https://data.maine-et-loire.fr/explore/?q=&disjunctive.diffuseur&disjunctive.publisher&source=shared&sort=modified&geonav=world%2Fworld_fr%2Ffr_40_52%2Ffr_60_49&geonav-asc&refine.publisher=D%C3%A9partement+de+Maine-et-Loire,https://www.data.gouv.fr/fr/organizations/5e32cef58b4c411011bd3bab/,5e32cef58b4c411011bd3bab,52,Pays de la Loire,49,Maine-et-Loire,47.468029,-0.551264
+399054964,MAISON DE L ESTUAIRE,OACT,https://data.maisondelestuaire.org,,,28,Normandie,76,Seine-Maritime,49.485853,0.135017
+844634873,RD SAINT MALO AGGLOMERATION,DSPT,,https://www.data.gouv.fr/fr/organizations/5ef0721566bea174e2d08b2c/,5ef0721566bea174e2d08b2c,53,Bretagne,35,Ille-et-Vilaine,48.637792,-1.973894
+225005024,DEPARTEMENT DE LA MANCHE,DEP,https://www.opendata-manche.fr/web/guest/donnees,https://www.data.gouv.fr/fr/organizations/534fff67a3a7292c64a77d87,534fff67a3a7292c64a77d87,28,Normandie,50,Manche,49.100652,-1.117092
+255003592,SYNDICAT MIXTE MANCHE NUMERIQUE,AGCT,https://www.opendata-manche.fr/web/guest/donnees,,,28,Normandie,50,Manche,49.11322,-1.049046
+219400470,COMMUNE DE MANDRES LES ROSES,COM,"https://mandres.data4citizen.com/portail?facet.field=[%22organization%22,%22tags%22,%22theme%22,%22features%22]&rows=10&start=0&fq=organization:(mandres)",,,11,Île-de-France,94,Val-de-Marne,48.702172,2.543412
+219200474,COMMUNE DE MARNES LA COQUETTE,COM,,https://www.data.gouv.fr/fr/organizations/55094e4cc751df601a882846,55094e4cc751df601a882846,11,Île-de-France,92,Hauts-de-Seine,48.830186,2.177442
+211300553,COMMUNE DE MARSEILLE,COM,https://trouver.datasud.fr/organization/ville-de-marseille,,,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.296158,5.369461
+211300561,COMMUNE DE MARTIGUES,COM,https://trouver.datasud.fr/organization/ville-de-martigues,,,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.431738,5.048065
+200060010,MAUGES COMMUNAUTE,CA,https://data.paysdelaloire.fr/explore/?disjunctive.publisher&sort=modified&refine.gestionnaire=Mauges+Communauté+,,,52,Pays de la Loire,49,Maine-et-Loire,47.208942,-0.981445
+225300011,DEPARTEMENT DE LA MAYENNE,DEP,,https://www.data.gouv.fr/fr/organizations/5aeab860c751df3bca98b623/,5aeab860c751df3bca98b623,52,Pays de la Loire,53,Mayenne,48.069693,-0.767228
+216205633,COMMUNE DE MAZINGARBE,COM,,https://www.data.gouv.fr/fr/organizations/5bb345d18b4c414c173fc6a5/,5bb345d18b4c414c173fc6a5,32,Hauts-de-France,62,Pas-de-Calais,50.469709,2.72084
+216403758,COMMUNE DE MEHARIN,COM,,https://www.data.gouv.fr/fr/organizations/5e01d5646f444126973821b0/,5e01d5646f444126973821b0,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+216403774,COMMUNE DE MENDIONDE,COM,,https://www.data.gouv.fr/fr/organizations/5ee872e36fbeeabe38b99a11/,5ee872e36fbeeabe38b99a11,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.340328,-1.298388
+210600839,COMMUNE DE MENTON,COM,https://opendata.sictiam.fr/fr/organization/commune-de-menton,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.774366,7.499605
+213103419,COMMUNE DE MERVILLE,COM,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Commune+de+Merville,,,76,Occitanie,31,Haute-Garonne,43.720919,1.298497
+200054807,METROPOLE D AIX MARSEILLE PROVENCE,MET,https://trouver.datasud.fr/organization/metropole-daix-marseille-provence,,,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.292154,5.359124
+200046977,METROPOLE DE LYON,MET,https://data.grandlyon.com/recherche?responsibleParty.organisationName=M%C3%A9tropole%20de%20Lyon,https://www.data.gouv.fr/fr/organizations/534fff7aa3a7292c64a77e0c,534fff7aa3a7292c64a77e0c,84,Auvergne-Rhône-Alpes,69,Rhône,45.758093,4.8544
+245400676,METROPOLE DU GRAND NANCY,MET,http://opendata.grandnancy.eu/jeux-de-donnees/rechercher-un-jeu-de-donnees/,https://www.data.gouv.fr/fr/organizations/534fff65a3a7292c64a77d73,534fff65a3a7292c64a77d73,44,Grand Est,54,Meurthe-et-Moselle,48.686087,6.174917
+200030195,METROPOLE NICE COTE D AZUR,MET,http://opendata.nicecotedazur.org/data/organization/metropole-nice-cote-d-azur,https://www.data.gouv.fr/fr/organizations/59aea226c751df38f3f6834b/,59aea226c751df38f3f6834b,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.696197,7.271743
+200039865,METZ METROPOLE,MET,,https://www.data.gouv.fr/fr/organizations/53fd1263a3a729390ba568a4,53fd1263a3a729390ba568a4,44,Grand Est,57,Moselle,49.107222,6.176868
+219200482,COMMUNE DE MEUDON,COM,https://data.meudon.fr/explore/?sort=title&refine.publisher=Ville+de+Meudon,https://www.data.gouv.fr/fr/organizations/54d89442c751df1245467389,54d89442c751df1245467389,11,Île-de-France,92,Hauts-de-Seine,48.81254,2.238791
+225400019,DEPARTEMENT DE MEURTHE ET MOSELLE,DEP,http://catalogue.infogeo54.fr/geonetwork/srv/fre/catalog.search#/home,https://www.data.gouv.fr/fr/organizations/5bc74634634f4144ed36741c/,5bc74634634f4144ed36741c,44,Grand Est,54,Meurthe-et-Moselle,48.679428,6.166758
+213401573,COMMUNE DE MEZE,COM,,https://www.data.gouv.fr/fr/organizations/5be01ff4634f4154a89ac27d/,5be01ff4634f4154a89ac27d,76,Occitanie,34,Hérault,43.425414,3.606695
+216902833,COMMUNE DE MIONS,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Mions,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.664132,4.95685
+213103450,COMMUNE DE MIREMONT,COM,,https://www.data.gouv.fr/fr/organizations/5d0a0c318b4c4108d1265df6/,5d0a0c318b4c4108d1265df6,76,Occitanie,31,Haute-Garonne,43.370489,1.416036
+210102521,COMMUNE DE MOGNENEINS,COM,,https://www.data.gouv.fr/fr/organizations/5662c125c751df42e605bd61,5662c125c751df42e605bd61,84,Auvergne-Rhône-Alpes,01,Ain,,
+212001630,COMMUNE DE MONACIA D AULLENE,COM,,https://www.data.gouv.fr/fr/organizations/53ae7fc3a3a729709f56d4f4,53ae7fc3a3a729709f56d4f4,94,Corse,2A,Corse-du-Sud,,
+214001927,COMMUNE DE MONT DE MARSAN,COM,,https://www.data.gouv.fr/fr/organizations/5e78cf325926be02a2e7473e/,e78cf325926be02a2e7473e,75,Nouvelle-Aquitaine,40,Landes,43.89086,-0.500999
+213401649,COMMUNE DE MONTAUD,COM,http://data.montpellier3m.fr/datasets/commune/montaud,,,76,Occitanie,34,Hérault,43.752145,3.954807
+212503882,COMMUNE DE MONTBELIARD,COM,,https://www.data.gouv.fr/fr/organizations/5c00089a8b4c414c75aed250/,5c00089a8b4c414c75aed250,27,Bourgogne-Franche-Comté,25,Doubs,47.510203,6.798227
+211702402,COMMUNE DE MONTENDRE,COM,,https://www.data.gouv.fr/fr/organizations/5c8a2ea6634f411541dbc634/,5c8a2ea6634f411541dbc634,75,Nouvelle-Aquitaine,17,Charente-Maritime,45.283478,-0.410194
+213103757,COMMUNE DE MONTESQUIEU VOLVESTRE,COM,,https://www.data.gouv.fr/fr/organizations/5d1217448b4c4160c8be2597/,5d1217448b4c4160c8be2597,76,Occitanie,31,Haute-Garonne,43.206475,1.228436
+213401698,COMMUNE DE MONTFERRIER SUR LEZ,COM,http://data.montpellier3m.fr/datasets/commune/montferrier-sur-lez,,,76,Occitanie,34,Hérault,43.666682,3.861002
+214401036,COMMUNE DE MONTOIR DE BRETAGNE,COM,https://data.agglo-carene.fr/explore/?refine.publisher=Montoir+de+Bretagne,,,52,Pays de la Loire,44,Loire-Atlantique,47.32703,-2.15035
+213401722,COMMUNE DE MONTPELLIER,COM,http://data.montpellier3m.fr/datasets/commune/montpellier,,,76,Occitanie,34,Hérault,43.598842,3.896549
+243400017,MONTPELLIER MEDITERRANEE METROPOLE,MET,http://data.montpellier3m.fr/datasets/commune/montpellier-mediterran%C3%A9e-m%C3%A9tropole,,,76,Occitanie,34,Hérault,43.6078,3.890743
+219300480,COMMUNE DE MONTREUIL,COM,https://data.montreuil.fr/explore/?refine.publisher=Ville+de+Montreuil,,,11,Île-de-France,93,Seine-Saint-Denis,48.862581,2.442508
+225600014,DEPARTEMENT DU MORBIHAN,DEP,,https://www.data.gouv.fr/fr/organizations/5c924c1c8b4c41159d78d937/,5c924c1c8b4c41159d78d937,53,Bretagne,56,Morbihan,47.657092,-2.750242
+255601106,SYNDICAT DEPARTEMENTAL D ENERGIES DU MORBIHAN,AGCT,https://www.opendata56.fr/explore/?refine.publisher=Morbihan+%C3%A9nergies,https://www.data.gouv.fr/fr/organizations/551d4b6cc751df4f1a0cd89f/,551d4b6cc751df4f1a0cd89f,53,Bretagne,56,Morbihan,47.659791,-2.809266
+315903898,COMITE DEP DU TOURISME DU MORBIHAN,OACT,,https://www.data.gouv.fr/fr/organizations/56aa3aac88ee387ea98ffbc6/,56aa3aac88ee387ea98ffbc6,53,Bretagne,56,Morbihan,47.64134,-2.754841
+225700012,DEPARTEMENT DE LA MOSELLE,DEP,http://www.moselleopendata.fr/datas,,,44,Grand Est,57,Moselle,49.122766,6.17556
+216802249,COMMUNE DE MULHOUSE,COM,https://data.mulhouse-alsace.fr/explore/?refine.publisher=Ville+de+Mulhouse,,,44,Grand Est,68,Haut-Rhin,47.749928,7.33623
+213401797,COMMUNE DE MURVIEL LES MONTPELLIER,COM,http://data.montpellier3m.fr/datasets/commune/murviel-les-montpellier,,,76,Occitanie,34,Hérault,43.605738,3.737264
+314549262,MUSIQUE ET DANSE EN LOIRE ATLANTIQUE,OACT,https://data.loire-atlantique.fr/explore/?refine.publisher=Musique+et+Danse+en+Loire-Atlantique,https://www.data.gouv.fr/fr/organizations/534fff98a3a7292c64a78011/,534fff98a3a7292c64a78011,52,Pays de la Loire,44,Loire-Atlantique,47.252975,-1.615871
+215403957,COMMUNE DE NANCY,COM,,https://www.data.gouv.fr/fr/organizations/5a210bc888ee382bed1f31db/,5a210bc888ee382bed1f31db,44,Grand Est,54,Meurthe-et-Moselle,48.693118,6.18266
+217703263,COMMUNE NANDY,COM,https://nandy-grandparissud.opendatasoft.com/explore/?sort=modified,,,11,Île-de-France,77,Seine-et-Marne,,
+219200508,COMMUNE DE NANTERRE,COM,http://www.nanterre.fr/1166-donnees-a-telecharger.htm,https://www.data.gouv.fr/fr/organizations/58ecb30388ee3855493567c6/,58ecb30388ee3855493567c6,11,Île-de-France,92,Hauts-de-Seine,48.89218,2.206945
+214401093,COMMUNE DE NANTES,COM,https://data.nantesmetropole.fr/explore/?refine.publisher=Ville+de+Nantes,https://www.data.gouv.fr/fr/organizations/534fffb9a3a7292c64a78159,534fffb9a3a7292c64a78159,52,Pays de la Loire,44,Loire-Atlantique,47.217804,-1.555041
+244400404,METROPOLE NANTES METROPOLE,MET,https://data.nantesmetropole.fr/explore/?refine.publisher=Nantes+Métropole,https://www.data.gouv.fr/fr/organizations/534fff98a3a7292c64a78012,534fff98a3a7292c64a78012,52,Pays de la Loire,44,Loire-Atlantique,47.216825,-1.578576
+215904285,COMMUNE DE NEUVILLE SAINT REMY,COM,,https://www.data.gouv.fr/fr/organizations/commune-de-neuville-saint-remy/,,32,Hauts-de-France,59,Nord,50.188673,3.222377
+215801945,COMMUNE DE NEVERS,COM,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/594be11888ee38743d67051b,594be11888ee38743d67051b,27,Bourgogne-Franche-Comté,58,Nièvre,46.98747,3.158176
+210600888,COMMUNE DE NICE,COM,http://opendata.nicecotedazur.org/data/organization/ville-de-nice,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.696197,7.271743
+225800010,DEPARTEMENT DE LA NIEVRE,DEP,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/59367c42c751df5751fcc925,59367c42c751df5751fcc925,27,Bourgogne-Franche-Comté,58,Nièvre,46.992646,3.161832
+243000643,COMMUNAUTE AGGLO NIMES METROPOLE,CA,https://data.nimes-metropole.fr/explore/?disjunctive.publisher&sort=explore.popularity_score,,,76,Occitanie,30,Gard,43.820828,4.358269
+217901917,COMMUNE DE NIORT,COM,https://donneespubliques.niortagglo.fr/search?categories=opendata&collection=Dataset&sort=name&source=niort_agglo.data,,,75,Nouvelle-Aquitaine,79,Deux-Sèvres,46.323985,-0.464225
+200041317,CA DU NIORTAIS,CA,https://donneespubliques.niortagglo.fr/search?categories=opendata&collection=Dataset&sort=name&source=niort_agglo.data,,,75,Nouvelle-Aquitaine,79,Deux-Sèvres,46.318491,-0.483811
+218902781,COMMUNE DE NOE,COM,http://www.mairie-noe.fr?p=4260,https://www.data.gouv.fr/fr/organizations/57ea3e8b88ee3877235ff490/,57ea3e8b88ee3877235ff490,27,Bourgogne-Franche-Comté,89,Yonne,48.1644,3.402259
+219400520,COMMUNE DE NOGENT SUR MARNE,COM,,https://www.data.gouv.fr/fr/organizations/54ca2b22c751df5273467389,54ca2b22c751df5273467389,11,Île-de-France,94,Val-de-Marne,48.839396,2.491097
+217703370,COMMUNE NOISIEL,COM,https://noisiel-agglo-pvm.opendata.arcgis.com,https://www.data.gouv.fr/fr/organizations/ville-de-noisiel/,5c0fb6d3634f416a192f0eb7,11,Île-de-France,77,Seine-et-Marne,48.854767,2.628535
+225900018,DEPARTEMENT DU NORD,DEP,https://geonord-lenord.opendata.arcgis.com,,,32,Hauts-de-France,59,Nord,50.636068,3.005915
+200053403,REGION NORMANDIE,REG,,https://www.data.gouv.fr/fr/organizations/region-normandie/,565ebf4788ee3869aae72046,28,Normandie,14,Calvados,49.186606,-0.353634
+200053759,REGION NOUVELLE AQUITAINE,REG,,https://www.data.gouv.fr/fr/organizations/534fff6aa3a7292c64a77d95,534fff6aa3a7292c64a77d95,75,Nouvelle-Aquitaine,33,Gironde,44.836539,-0.589206
+509795829,PIGMA,OACT,https://www.pigma.org/datanouvelleaquitaine/dataset?organization=pigma,,,76,Occitanie,66,Pyrénées-Orientales,42.681197,2.933755
+828647842,COMITE REGIONAL DU TOURISME DE NOUVELLE AQUITAINE,OACT,https://www.datalocale.fr/dataset?organization=sirtaqui,,,75,Nouvelle-Aquitaine,33,Gironde,44.843004,-0.57108
+200081735,NOUVELLE AQUITAINE MOBILITES,AGCT,https://www.pigma.org/datanouvelleaquitaine/dataset?organization=nouvelle_aquitaine_mobilit_s,https://www.data.gouv.fr/fr/organizations/5c52f0cc8b4c410915918eee/,5c52f0cc8b4c410915918eee,75,Nouvelle-Aquitaine,33,Gironde,44.821331,-0.552392
+213503642,COMMUNE DE NOYAL CHATILLON SUR SEICHE,COM,https://data.rennesmetropole.fr/explore/?refine.publisher=Ville+de+Noyal-Ch%C3%A2tillon-sur-Seiche,,,53,Bretagne,35,Ille-et-Vilaine,48.042581,-1.661867
+215601519,COMMUNE DE NOYAL PONTIVY,COM,https://www.opendata56.fr/explore/?refine.publisher=Ville+de+Noyal-Pontivy,https://www.data.gouv.fr/fr/organizations/5a5cb495c751df2cdac7334e/,5a5cb495c751df2cdac7334e,53,Bretagne,56,Morbihan,48.067325,-2.881542
+200053791,REGION OCCITANIE,REG,https://data.laregion.fr/explore/?refine.publisher=R%C3%A9gion+Occitanie,,,76,Occitanie,31,Haute-Garonne,43.589299,1.440857
+217604818,COMMUNE D OCTEVILLE SUR MER,COM,https://data.agglo-lehavre.fr,,,28,Normandie,76,Seine-Maritime,49.562618,0.105375
+395235047,OFFICE DE TOURISME METROPOLITAIN NICE COTE D AZUR,OACT,http://opendata.nicecotedazur.org/data/organization/office-de-tourisme-metropolitain-nice-cote-d-azur,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.696197,7.271743
+226000016,DEPARTEMENT DE L OISE,DEP,http://opendata.oise.fr/donnees/,https://www.data.gouv.fr/fr/organizations/534fff67a3a7292c64a77d7d,534fff67a3a7292c64a77d7d,32,Hauts-de-France,60,Oise,49.438645,2.077686
+789710589,COMPAGNIE DE TRANSPORT DU LAC DU BOURGET CTLB,DSPT,,https://www.data.gouv.fr/fr/organizations/5be2dd80634f41472fc9de00/,5be2dd80634f41472fc9de00,84,Auvergne-Rhône-Alpes,73,Savoie,45.687834,5.904669
+211201769,COMMUNE D ONET LE CHATEAU,COM,,https://www.data.gouv.fr/fr/organizations/5aec4c3e88ee381426c8df86/,5aec4c3e88ee381426c8df86,76,Occitanie,12,Aveyron,44.365669,2.593301
+244500468,ORLEANS METROPOLE,MET,https://data.orleans-metropole.fr/explore/?refine.publisher=Orl%C3%A9ans+M%C3%A9tropole,https://www.data.gouv.fr/fr/organizations/57ed2fe9c751df236179df72,57ed2fe9c751df236179df72,24,Centre-Val de Loire,45,Loiret,47.903674,1.917462
+216404293,COMMUNE D ORSANCO,COM,,https://www.data.gouv.fr/fr/organizations/5cc19b08634f415e201b269e/,5cc19b08634f415e201b269e,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+214401143,COMMUNE D ORVAULT,COM,https://data.loire-atlantique.fr/explore/?refine.publisher=Orvault,,,52,Pays de la Loire,44,Loire-Atlantique,47.270607,-1.624397
+216404350,COMMUNE D OSSERAIN RIVAREYTE,COM,,https://www.data.gouv.fr/fr/organizations/5cacc0838b4c4147790eca6e/,5cacc0838b4c4147790eca6e,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+216802538,COMMUNE D OTTMARSHEIM,COM,https://data.mulhouse-alsace.fr/explore/?refine.publisher=Comme+d%27Ottmarsheim,,,44,Grand Est,68,Haut-Rhin,47.787233,7.50657
+217500016,VILLE DE PARIS,COM,https://opendata.paris.fr/explore/?sort=modified,https://www.data.gouv.fr/fr/organizations/534fff89a3a7292c64a77eb7,534fff89a3a7292c64a77eb7,11,Île-de-France,75,Paris,48.856145,2.351838
+200057958,PARIS VALLEE DE LA MARNE,CA,https://data-agglo-pvm.opendata.arcgis.com,https://www.data.gouv.fr/fr/organizations/communaute-dagglomeration-paris-vallee-de-la-marne/,5ba1142b8b4c4139be113bca,11,Île-de-France,77,Seine-et-Marne,48.850112,2.636511
+325920080,COMITE DEPART TOURISME DU PAS DE CALAIS,OACT,https://tourisme62.opendatasoft.com/explore/?refine.publisher=Comité+départemental+de+tourisme+du+Pas-de-Calais,https://www.data.gouv.fr/fr/organizations/534fffa2a3a7292c64a7808d/,534fffa2a3a7292c64a7808d,32,Hauts-de-France,62,Pas-de-Calais,50.771447,1.639872
+234400034,REGION DES PAYS DE LA LOIRE,REG,https://data.paysdelaloire.fr/explore/?refine.publisher=Région+des+Pays+de+la+Loire,https://www.data.gouv.fr/fr/organizations/534fffa7a3a7292c64a780c5,534fffa7a3a7292c64a780c5,52,Pays de la Loire,44,Loire-Atlantique,47.211345,-1.526051
+200048965,POLE D EQUILIBRE TERRITORIAL ET RURAL DU PAYS DE SAINT BRIEUC,AGCT,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.511417,-2.763536
+215601543,COMMUNE DE PEILLAC,COM,,https://www.data.gouv.fr/fr/organizations/5b7ea6c3634f4119e42b781b/,5b7ea6c3634f4119e42b781b,53,Bretagne,56,Morbihan,47.713381,-2.221101
+213401987,COMMUNE DE PEROLS,COM,http://data.montpellier3m.fr/datasets/commune/p%C3%A9rols,,,76,Occitanie,34,Hérault,43.563708,3.953733
+213303183,COMMUNE DE PESSAC,COM,https://opendata.bordeaux-metropole.fr/explore/?disjunctive.publisher&disjunctive.frequence&disjunctive.territoire&sort=title&refine.publisher=Ville+de+Pessac,,,75,Nouvelle-Aquitaine,33,Gironde,44.805685,-0.630697
+217604974,COMMUNE DE PETIT COURONNE,COM,,https://www.data.gouv.fr/fr/organizations/5b90dc4d634f415369256e17/,5b90dc4d634f415369256e17,28,Normandie,76,Seine-Maritime,49.385149,1.021071
+200049690,PETR PAYS MIDI QUERCY,AGCT,,https://www.data.gouv.fr/fr/organizations/594d23e688ee380a6acd18af/,594d23e688ee380a6acd18af,76,Occitanie,82,Tarn-et-Garonne,44.075191,1.521871
+381785120,PICARDIE NATURE,OACT,,https://www.data.gouv.fr/fr/organizations/54e3c4f1c751df7e3e467389/,54e3c4f1c751df7e3e467389,32,Hauts-de-France,80,Somme,49.9008,2.311348
+213402027,COMMUNE DE PIGNAN,COM,http://data.montpellier3m.fr/datasets/commune/pignan,,,76,Occitanie,34,Hérault,43.582167,3.760876
+212201719,COMMUNE DE PLAINTEL,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,https://www.data.gouv.fr/fr/organizations/588f0a98c751df12c6ae0a66,588f0a98c751df12c6ae0a66,53,Bretagne,22,Côtes-d'Armor,48.408047,-2.818221
+212201875,COMMUNE DE PLERIN,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,https://www.data.gouv.fr/fr/organizations/584ed32c88ee38733fc65bb3,584ed32c88ee38733fc65bb3,53,Bretagne,22,Côtes-d'Armor,48.534889,-2.770489
+214401283,COMMUNE DE PLESSE,COM,,https://www.data.gouv.fr/fr/organizations/5a1fde6d88ee384f0ff312b0,5a1fde6d88ee384f0ff312b0,52,Pays de la Loire,44,Loire-Atlantique,47.542345,-1.884473
+219400595,COMMUNE DE LE PLESSIS TREVISE,COM,,https://www.data.gouv.fr/fr/organizations/5bb4ae00634f4155bc71f71f/,5bb4ae00634f4155bc71f71f,11,Île-de-France,94,Val-de-Marne,48.809286,2.573442
+213502271,COMMUNE DE PLEUMELEUC,COM,,https://www.data.gouv.fr/fr/organizations/5b1a788188ee3843648b36b6/,5b1a788188ee3843648b36b6,53,Bretagne,35,Ille-et-Vilaine,48.183463,-1.919172
+200054252,COMMUNE DE PLOEUC L HERMITAGE,COM,http://datarmor.cotesdarmor.fr/donnees,,,53,Bretagne,22,Côtes-d'Armor,,
+212202048,COMMUNE DE PLOEZAL,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.713686,-3.205886
+212202154,COMMUNE DE PLOUFRAGAN,COM,http://datarmor.cotesdarmor.fr/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.48925,-2.793905
+252106620,SYNDICAT MIXTE DU PARC REGIONAL DU MORVAN,OACT,https://trouver.ternum-bfc.fr/organization/sm-du-parc-naturel-regional-du-morvan,,,27,Bourgogne-Franche-Comté,58,Nièvre,47.285137,4.08977
+251900130,SYNDICAT MIXTE D AMENAGEMENT ET DE GESTION DU PARC NATUREL REGIONAL DE MILLEVACHES EN LIMOUSIN,OACT,https://www.pigma.org/datanouvelleaquitaine/dataset?organization=pnr_millevaches_en_limousin,,,75,Nouvelle-Aquitaine,19,Corrèze,45.64262,2.095033
+218601946,COMMUNE DE POITIERS,COM,https://data.grandpoitiers.fr/explore/?refine.publisher=Ville+de+Poitiers,,,75,Nouvelle-Aquitaine,86,Vienne,46.58019,0.340719
+200072866,POLE METROPOLITAIN DE L ESTUAIRE DE LA SEINE,AGCT,https://data.estuairedelaseine.fr,,,28,Normandie,76,Seine-Maritime,49.489768,0.10902
+200033736,POLE METROPOLITAIN DU PAYS DE BREST,AGCT,https://opendata.brest-metropole.fr/explore/?sort=modified&refine.publisher=Pôle+métropolitain+du+Pays+de+Brest,https://www.data.gouv.fr/fr/organizations/5adda58dc751df45e10ca319/,5adda58dc751df45e10ca319,53,Bretagne,29,Finistère,48.391773,-4.483744
+213803174,COMMUNE DU PONT DE CLAIX,COM,https://data.metropolegrenoble.fr/ckan/dataset?organization=ville-de-pont-de-claix,,,84,Auvergne-Rhône-Alpes,38,Isère,45.123689,5.697922
+212902209,COMMUNE DE PONT L ABBE,COM,,https://www.data.gouv.fr/fr/organizations/58da32bac751df47f26f37b1,58da32bac751df47f26f37b1,53,Bretagne,29,Finistère,47.866562,-4.227754
+217703735,COMMUNE PONTAULT COMBAULT,COM,https://opendata.pontault-combault.fr,https://www.data.gouv.fr/fr/organizations/ville-de-pontault-combault/,5d9461b98b4c414ed95ff89f,11,Île-de-France,77,Seine-et-Marne,48.801484,2.606385
+214401325,COMMUNE DE PORNICHET,COM,https://data.agglo-carene.fr/explore/?sort=modified&disjunctive.gestionnaire&disjunctive.publisher&disjunctive.theme&disjunctive.keyword&disjunctive.license&disjunctive.features&disjunctive.diffuseur&refine.dcat.spatial=CARENE&disjunctive.dcat.spatial&refine.publisher=Pornichet,,,52,Pays de la Loire,44,Loire-Atlantique,47.26342,-2.34031
+213402175,COMMUNE DE PRADES LE LEZ,COM,http://data.montpellier3m.fr/datasets/commune/prades-le-lez,,,76,Occitanie,34,Hérault,43.697341,3.864363
+782815666,PROVENCE TOURISME,OACT,https://trouver.datasud.fr/organization/provence-tourisme,http://data.visitprovence.com,,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.289532,5.374683
+218301000,COMMUNE DE PUGET VILLE,COM,https://opendata.sictiam.fr/fr/organization/mairie-de-puget-ville,,,93,Provence-Alpes-Côte d'Azur,83,Var,43.289857,6.138426
+219200623,COMMUNE DE PUTEAUX,COM,https://opendata.hauts-de-seine.fr/explore/?sort=modified&refine.publisher=Ville+de+Puteaux,,,11,Île-de-France,92,Hauts-de-Seine,48.884419,2.237979
+226300010,DEPARTEMENT DU PUY DE DOME,DEP,http://www.puy-de-dome.fr/opendata.html,,,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,45.776248,3.085147
+226400018,DEPARTEMENT DES PYRENEES ATLANTIQUES,DEP,https://data.le64.fr/explore/?refine.publisher=D%C3%A9partement+des+Pyr%C3%A9n%C3%A9es-Atlantiques,,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.292454,-0.372306
+226600013,DEPARTEMENT DES PYRENEES ORIENTALES,DEP,,https://www.data.gouv.fr/fr/organizations/5ab9f242c751df2f936031d6,5ab9f242c751df2f936031d6,76,Occitanie,66,Pyrénées-Orientales,42.700031,2.893436
+482886694,QUALITAIR CORSE,OACT,https://data-qualitaircorse.opendata.arcgis.com/datasets,,,94,Corse,2B,Haute-Corse,42.298027,9.174445
+215601865,COMMUNE DE QUIBERON,COM,https://www.opendata56.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Ville+de+Quiberon,https://www.data.gouv.fr/fr/organizations/5dc56e0e8b4c412e7cd726a2/,5dc56e0e8b4c412e7cd726a2,53,Bretagne,56,Morbihan,47.481681,-3.120937
+217805175,COMMUNE DE RAMBOUILLET,COM,,https://www.data.gouv.fr/fr/organizations/5c40559d8b4c4151b275a7b0/,5c40559d8b4c4151b275a7b0,11,Île-de-France,78,Yvelines,48.645294,1.816542
+775663438,REGIE AUTONOME DES TRANSPORTS PARISIENS,DSPT,https://data.ratp.fr/explore/?refine.publisher=RATP,https://www.data.gouv.fr/fr/organizations/534fffa6a3a7292c64a780b7/,534fffa6a3a7292c64a780b7,11,Île-de-France,75,Paris,48.842793,2.371999
+213502362,COMMUNE DE REDON,COM,,https://www.data.gouv.fr/fr/organizations/5a1e73b0c751df0d9952bd2d,5a1e73b0c751df0d9952bd2d,53,Bretagne,35,Ille-et-Vilaine,47.650908,-2.083836
+815142229,REGIE DES TRANSPORTS CARCASSONNE AGGLO,DSPT,,https://www.data.gouv.fr/fr/organizations/5c17b4d7634f41734de371f7/,5c17b4d7634f41734de371f7,76,Occitanie,11,Aude,43.215669,2.332987
+493397673,REGIE DES TRANSPORTS DU TERRITOIRE DE BELFORT,DSPT,,https://www.data.gouv.fr/fr/organizations/5b11425c88ee387510d9dcfb/,5b11425c88ee387510d9dcfb,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,47.622761,6.858749
+794030213,REGIE LIGNE D AZUR,DSPT,http://opendata.nicecotedazur.org/data/organization/regie-ligne-d-azur,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.730246,7.253353
+215104217,COMMUNE DE REIMS,COM,,https://www.data.gouv.fr/fr/organizations/ville-de-reims-1/,,44,Grand Est,51,Marne,49.257759,4.031864
+213502388,COMMUNE DE RENNES,COM,https://data.rennesmetropole.fr/explore/?refine.publisher=Ville+de+Rennes,https://www.data.gouv.fr/fr/organizations/534fffb9a3a7292c64a7815d,534fffb9a3a7292c64a7815d,53,Bretagne,35,Ille-et-Vilaine,48.104476,-1.672854
+243500139,RENNES METROPOLE,MET,https://data.rennesmetropole.fr/explore/?refine.publisher=Rennes+M%C3%A9tropole,https://www.data.gouv.fr/fr/organizations/534fffaaa3a7292c64a780dd,534fffaaa3a7292c64a780dd,53,Bretagne,35,Ille-et-Vilaine,48.093066,-1.67494
+213402274,COMMUNE DE RESTINCLIERES,COM,http://data.montpellier3m.fr/datasets/commune/restincli%C3%A8res,,,76,Occitanie,34,Hérault,43.72393,4.038604
+216802710,COMMUNE DE RIEDISHEIM,COM,https://data.mulhouse-alsace.fr/explore/?refine.publisher=Ville+de+Riedisheim,,,44,Grand Est,68,Haut-Rhin,47.74926,7.368392
+216902866,COMMUNE DE RILLIEUX LA PAPE,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Rillieux-la-Pape,https://www.data.gouv.fr/fr/organizations/5d1b06b46f44410e40f553ac/,5d1b06b46f44410e40f553ac,84,Auvergne-Rhône-Alpes,69,Rhône,45.818686,4.899909
+219105210,COMMUNE DE RIS ORANGIS,COM,https://risorangis-grandparissud.opendatasoft.com/explore/?sort=modified,,,11,Île-de-France,91,Essonne,48.653611,2.415939
+216802785,COMMUNE DE RIXHEIM,COM,https://data.mulhouse-alsace.fr/explore/?refine.publisher=Ville+de+Rixheim,,,44,Grand Est,68,Haut-Rhin,47.744096,7.397129
+211202023,COMMUNE DE RODEZ,COM,https://www.ville-rodez.fr/fr/outils/catalogue-open-data.php,https://www.data.gouv.fr/fr/organizations/57ff946788ee384fa45ff490,57ff946788ee384fa45ff490,76,Occitanie,12,Aveyron,44.349348,2.576618
+217703909,COMMUNE DE ROISSY EN BRIE,COM,,https://www.data.gouv.fr/fr/organizations/roissy-en-brie/,,11,Île-de-France,77,Seine-et-Marne,48.791119,2.654534
+210601043,COMMUNE DE ROQUEBRUNE CAP MARTIN,COM,https://opendata.sictiam.fr/fr/organization/mairie-de-roquebrune-cap-martin,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.766399,7.459182
+213104581,COMMUNE DE ROQUES,COM,https://data.laregion.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Commune+de+Roques,,,76,Occitanie,31,Haute-Garonne,43.509032,1.375794
+212902399,COMMUNE DE ROSCOFF,COM,,https://www.data.gouv.fr/fr/organizations/5ab12b6ec751df128414f914/,5ab12b6ec751df128414f914,53,Bretagne,29,Finistère,48.726238,-3.985451
+219300647,COMMUNE DE ROSNY SOUS BOIS,COM,,https://www.data.gouv.fr/fr/organizations/5b28f5b288ee38047e62143e/,5b28f5b288ee38047e62143e,11,Île-de-France,93,Seine-Saint-Denis,48.872207,2.488287
+215905126,COMMUNE DE ROUBAIX,COM,https://opendata.roubaix.fr/explore/?refine.publisher=Ville+de+Roubaix,https://www.data.gouv.fr/fr/organizations/5be53f55634f4119ca26ec72/,5be53f55634f4119ca26ec72,32,Hauts-de-France,59,Nord,50.689925,3.16891
+219200631,COMMUNE DE RUEIL MALMAISON,COM,https://opendata.hauts-de-seine.fr/explore/?sort=modified&refine.publisher=Ville+de+Rueil-Malmaison,,,11,Île-de-France,92,Hauts-de-Seine,48.878193,2.180434
+317032993,SAEM EXPLOITATION STATIONNEM VILLE PARIS,DSPT,https://opendata.saemes.fr/explore/?refine.publisher=Saemes,https://www.data.gouv.fr/fr/organizations/56f54580c751df65ebc485cb/,56f54580c751df65ebc485cb,11,Île-de-France,75,Paris,48.868514,2.343213
+213303662,COMMUNE DE SAINT ANDRE DE CUBZAC,COM,,https://www.data.gouv.fr/fr/organizations/534fff66a3a7292c64a77d79,534fff66a3a7292c64a77d79,75,Nouvelle-Aquitaine,33,Gironde,44.99477,-0.446402
+214401515,COMMUNE DE SAINT ANDRE DES EAUX,COM,https://data.agglo-carene.fr/explore/?refine.publisher=Saint-André+des+Eaux,,,52,Pays de la Loire,44,Loire-Atlantique,47.31357,-2.31066
+212105407,COMMUNE DE SAINT APOLLINAIRE,COM,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5aec1fe488ee384cbcf3befe/,5aec1fe488ee384cbcf3befe,27,Bourgogne-Franche-Comté,21,Côte-d'Or,47.334135,5.092453
+215602061,COMMUNE DE SAINT AVE,COM,https://www.opendata56.fr/explore/?refine.publisher=Ville+de+Saint-Av%C3%A9,https://www.data.gouv.fr/fr/organizations/5aa79c9fc751df144f78f40c/,5aa79c9fc751df144f78f40c,53,Bretagne,56,Morbihan,47.690118,-2.735952
+216303230,COMMUNE DE SAINT BONNET LE BOURG,COM,,https://www.data.gouv.fr/fr/organizations/5c59b6498b4c4157a35c3880/,5c59b6498b4c4157a35c3880,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,,
+213002371,COMMUNE DE SAINT BRES,COM,http://data.montpellier3m.fr/datasets/commune/saint-br%C3%A8s,,,76,Occitanie,30,Gard,44.277199,4.196208
+212202782,COMMUNE DE SAINT BRIEUC,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.513873,-2.764382
+213904782,COMMUNE DE SAINT CLAUDE,COM,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5b06810bc751df6e997fd802/,5b06810bc751df6e997fd802,27,Bourgogne-Franche-Comté,39,Jura,46.389141,5.864433
+216901918,COMMUNE DE SAINT CYR AU MONT D OR,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Saint-Cyr-au-Mont-d%27Or,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.815851,4.817551
+218301125,COMMUNE DE SAINT CYR SUR MER,COM,,https://www.data.gouv.fr/fr/organizations/5c4973cf8b4c410839f61188/,5c4973cf8b4c410839f61188,93,Provence-Alpes-Côte d'Azur,83,Var,43.180523,5.711346
+219740115,COMMUNE DE SAINT DENIS,COM,http://opendata-sig.saintdenis.re/datasets,https://www.data.gouv.fr/fr/organizations/5c050cfb8b4c413be36cb1c3/,5c050cfb8b4c413be36cb1c3,4,La Réunion,974,La Réunion,-20.880772,55.449062
+216901942,COMMUNE DE SAINT DIDIER AU MONT D OR,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Saint-Didier-au-Mont-d%27Or,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.811536,4.798189
+213402498,COMMUNE DE SAINT DREZERY,COM,http://data.montpellier3m.fr/datasets/commune/saint-dr%C3%A9z%C3%A9ry,,,76,Occitanie,34,Hérault,43.733025,3.975205
+213803828,COMMUNE DE SAINT EGREVE,COM,http://data.metropolegrenoble.fr/ckan/dataset?organization=ville-de-saint-egreve,https://www.data.gouv.fr/fr/organizations/5c002da8634f4111d7393309/,5c002da8634f4111d7393309,84,Auvergne-Rhône-Alpes,38,Isère,45.233077,5.680799
+216404764,COMMUNE DE SAINT ESTEBEN,COM,,https://www.data.gouv.fr/fr/organizations/5ddfeff56f44411ac532190f/,5ddfeff56f44411ac532190f,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+216404772,COMMUNE DE SAINT ETIENNE DE BAIGORRY,COM,,https://www.data.gouv.fr/fr/organizations/5e81f70c1dd3db2b3165ec8d/,5e81f70c1dd3db2b3165ec8d,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+244200770,SAINT ETIENNE METROPOLE,MET,https://data.saint-etienne-metropole.fr/portail/catalogue,https://www.data.gouv.fr/fr/organizations/5c34c63a8b4c41718c8b236f/,5c34c63a8b4c41718c8b236f,84,Auvergne-Rhône-Alpes,42,Loire,45.439918,4.398032
+213402563,COMMUNE DE SAINT GENIES DES MOURGUES,COM,http://data.montpellier3m.fr/datasets/commune/saint-geni%C3%A8s-des-mourgues,,,76,Occitanie,34,Hérault,43.69679,4.035232
+213402597,COMMUNE DE SAINT GEORGES D ORQUES,COM,http://data.montpellier3m.fr/datasets/commune/saint-georges-dorques,,,76,Occitanie,34,Hérault,43.61069,3.783662
+211703335,COMMUNE DE SAINT GEORGES DE DIDONNE,COM,,https://www.data.gouv.fr/fr/organizations/5c8a2ec7634f411c56990637/,5c8a2ec7634f411c56990637,75,Nouvelle-Aquitaine,17,Charente-Maritime,45.603418,-0.993453
+213502776,COMMUNE DE SAINT GONLAY,COM,,https://www.data.gouv.fr/fr/organizations/5b3494ef88ee382f8e126555/,5b3494ef88ee382f8e126555,53,Bretagne,35,Ille-et-Vilaine,48.113359,-2.066707
+213502818,COMMUNE DE SAINT JACQUES DE LA LANDE,COM,https://data.rennesmetropole.fr/explore/?refine.publisher=Ville+de+Saint-Jacques+de+la+Lande,,,53,Bretagne,35,Ille-et-Vilaine,48.08061,-1.713684
+213402704,COMMUNE DE SAINT JEAN DE VEDAS,COM,http://data.montpellier3m.fr/datasets/commune/saint-jean-de-vedas,,,76,Occitanie,34,Hérault,43.57577,3.826753
+214401689,COMMUNE DE SAINT JOACHIM,COM,https://data.agglo-carene.fr/explore/?refine.publisher=Saint-Joachim,,,52,Pays de la Loire,44,Loire-Atlantique,47.38221,-2.20023
+218804219,COMMUNE DE SAINT JULIEN,COM,,https://www.data.gouv.fr/fr/organizations/5e1708dd634f416746ce7892/,5e1708dd634f416746ce7892,44,Grand Est,88,Vosges,48.019407,5.897097
+211703517,COMMUNE DE SAINT JUST LUZAC,COM,,https://www.data.gouv.fr/fr/organizations/5c8a2e8e634f4118ee8aeee2/,5c8a2e8e634f4118ee8aeee2,75,Nouvelle-Aquitaine,17,Charente-Maritime,45.802641,-1.03982
+216902882,COMMUNE DE SAINT LAURENT DE MURE,COM,,https://www.data.gouv.fr/fr/organizations/5ae1cc2588ee385be7b19c67/,5ae1cc2588ee385be7b19c67,84,Auvergne-Rhône-Alpes,69,Rhône,45.681641,5.048993
+213304330,COMMUNE DE SAINT LOUBES,COM,,https://www.data.gouv.fr/fr/organizations/5c6686958b4c4112712e3f6c/,5c6686958b4c4112712e3f6c,75,Nouvelle-Aquitaine,33,Gironde,44.916775,-0.426589
+213502883,COMMUNE DE SAINT MALO,COM,https://data.stmalo-agglomeration.fr/explore/?refine.publisher=Ville+de+Saint-Malo,https://www.data.gouv.fr/fr/organizations/53ba4599a3a729219b7beaca,53ba4599a3a729219b7beaca,53,Bretagne,35,Ille-et-Vilaine,48.650917,-2.023584
+214401762,COMMUNE DE SAINT MALO DE DE GUERSAC,COM,https://data.agglo-carene.fr/explore/?refine.publisher=Saint+Malo+de+Guersac,,,52,Pays de la Loire,44,Loire-Atlantique,47.35132,-2.17876
+219400678,COMMUNE DE SAINT MANDE,COM,https://saintmande.opendatasoft.com/explore/?refine.publisher=Ville+de+Saint-Mand%C3%A9,,,11,Île-de-France,94,Val-de-Marne,48.843229,2.41903
+217104454,COMMUNE DE SAINT MARCEL,COM,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5bab855f634f417eb0f01da8/,5bab855f634f417eb0f01da8,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,46.775707,4.887527
+213804214,COMMUNE DE SAINT MARTIN D HERES,COM,https://data.metropolegrenoble.fr/ckan/dataset?organization=ville-de-saintmartindheres,https://www.data.gouv.fr/fr/organizations/5e2972146f444147e0a30177/,5e2972146f444147e0a30177,84,Auvergne-Rhône-Alpes,38,Isère,45.183476,5.755813
+219400686,COMMUNE DE SAINT MAUR DES FOSSES,COM,,https://www.data.gouv.fr/fr/organizations/534fffada3a7292c64a780f9,534fffada3a7292c64a780f9,11,Île-de-France,94,Val-de-Marne,48.802921,2.485283
+214401838,COMMUNE DE SAINT MOLF,COM,https://capatlantique-loireatlantique.opendatasoft.com/explore/?refine.publisher=Saint+Molf,,,52,Pays de la Loire,44,Loire-Atlantique,47.391126,-2.424958
+214401846,COMMUNE DE SAINT NAZAIRE,COM,https://data.agglo-carene.fr/explore/?refine.publisher=Saint-Nazaire,,,52,Pays de la Loire,44,Loire-Atlantique,47.27337,-2.21387
+214401853,COMMUNE DE SAINT NICOLAS DE REDON,COM,,https://www.data.gouv.fr/fr/organizations/5a2023c388ee383e1dea3b3f,5a2023c388ee383e1dea3b3f,52,Pays de la Loire,44,Loire-Atlantique,47.64263,-2.068558
+211703806,COMMUNE DE SAINT PALAIS SUR MER,COM,,https://www.data.gouv.fr/fr/organizations/5c8a2e8f8b4c41248f2542f5/,5c8a2e8f8b4c41248f2542f5,75,Nouvelle-Aquitaine,17,Charente-Maritime,45.643024,-1.08617
+214002792,COMMUNE SAINT PAUL LES DAX,COM,,https://www.data.gouv.fr/fr/organizations/5c6303468b4c414d6ae2ebcd/,5c6303468b4c414d6ae2ebcd,75,Nouvelle-Aquitaine,40,Landes,43.724954,-1.050969
+215602327,COMMUNE DE SAINT PERREUX,COM,https://www.opendata56.fr/explore/?refine.publisher=Ville+de+Saint-Perreux,,,53,Bretagne,56,Morbihan,47.667009,-2.106274
+214002818,COMMUNE DE SAINT PIERRE DU MONT,COM,https://www.pigma.org/datanouvelleaquitaine/dataset?organization=commune_de_saint_pierre_du_mont,,,75,Nouvelle-Aquitaine,40,Landes,43.882405,-0.519761
+216902908,COMMUNE DE SAINT PRIEST,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Saint-Priest,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.694202,4.935444
+210206660,COMMUNE DE SAINT QUENTIN,COM,http://open-data.saint-quentin-numerique.fr/datasets,https://www.data.gouv.fr/fr/organizations/534fffaea3a7292c64a780fb,534fffaea3a7292c64a780fb,32,Hauts-de-France,02,Aisne,49.846497,3.288445
+215602392,COMMUNE DE SAINT VINCENT SUR OUST,COM,,https://www.data.gouv.fr/fr/organizations/5b90de3c8b4c412516d5511f/,5b90de3c8b4c412516d5511f,53,Bretagne,56,Morbihan,47.699837,-2.146549
+217605526,COMMUNE DE SAINTE ADRESSE,COM,,https://www.data.gouv.fr/fr/organizations/5b110a9788ee38208c6bc159/,5b110a9788ee38208c6bc159,28,Normandie,76,Seine-Maritime,49.505851,0.084674
+213502941,COMMUNE DE SAINTE MARIE,COM,,https://www.data.gouv.fr/fr/organizations/5b90e0238b4c4126f11c4e06/,5b90e0238b4c4126f11c4e06,53,Bretagne,35,Ille-et-Vilaine,47.693915,-2.000419
+227100013,DEPARTEMENT DE SAONE ET LOIRE,DEP,https://trouver.ternum-bfc.fr/organization/departement-de-saone-et-loire,https://www.data.gouv.fr/fr/organizations/534fff68a3a7292c64a77d8d,534fff68a3a7292c64a77d8d,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,46.307635,4.834066
+212405203,COMMUNE DE SARLAT LA CANEDA,COM,,https://www.data.gouv.fr/fr/organizations/534fffaea3a7292c64a780fe,534fffaea3a7292c64a780fe,75,Nouvelle-Aquitaine,24,Dordogne,44.889909,1.216813
+227200029,DEPARTEMENT DE LA SARTHE,DEP,https://data.sarthe.fr/explore/?refine.publisher=Conseil+D%C3%A9partemental+de+la+Sarthe,,,52,Pays de la Loire,72,Sarthe,48.001836,0.198287
+528139876,AGENCE DE DEVELOPPEMENT TOURISTIQUE ET D ATTRACTIVITE DE LA SARTHE,OACT,https://data.sarthe.fr/explore/?refine.publisher=Sarthe+D%C3%A9veloppement,,,52,Pays de la Loire,72,Sarthe,48.004193,0.199417
+213402951,COMMUNE DE SAUSSAN,COM,http://data.montpellier3m.fr/datasets/commune/saussan,,,76,Occitanie,34,Hérault,43.571747,3.770164
+217704451,COMMUNE DE SAVIGNY LE TEMPLE,COM,https://data.savigny-le-temple.fr/explore/?refine.publisher=Ville+de+Savigny-le-Temple,,,11,Île-de-France,77,Seine-et-Marne,48.596089,2.579606
+227300019,DEPARTEMENT DE LA SAVOIE,DEP,,https://www.data.gouv.fr/fr/organizations/59f843bcc751df5a1b4776b6,59f843bcc751df5a1b4776b6,84,Auvergne-Rhône-Alpes,73,Savoie,45.564893,5.919046
+219200714,COMMUNE DE SCEAUX,COM,https://opendata.hauts-de-seine.fr/explore/?sort=modified&refine.publisher=Ville+de+Sceaux,,,11,Île-de-France,92,Hauts-de-Seine,48.778971,2.288659
+200055614,SYNDICAT DEPARTEMENTAL D ENERGIE ET DES DECHETS 52,OACT,,https://www.data.gouv.fr/fr/organizations/syndicat-departemental-denergie-et-des-dechets-de-la-haute-marne/,,44,Grand Est,52,Haute-Marne,48.110571,5.13103
+250400710,SYNDICAT D ENERGIE DES ALPES DE HAUTE PROVENCE,AGCT,,https://www.data.gouv.fr/fr/organizations/5a2ad43988ee38214cb97308/,5a2ad43988ee38214cb97308,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,44.090813,6.239018
+250700358,SYND DEPT D ENERGIES DE L ARDECHE,AGCT,https://opendata.ardeche.fr/search/og_group_ref/105/type/dataset?sort_by=changed,https://www.data.gouv.fr/fr/organizations/583da740c751df06e1c0bb7e/,583da740c751df06e1c0bb7e,84,Auvergne-Rhône-Alpes,07,Ardèche,44.726384,4.579332
+241800549,SYNDICAT DEPARTEMENTAL ENERGIE DU CHER,AGCT,,https://www.data.gouv.fr/fr/organizations/56420fbac751df373faad371/,56420fbac751df373faad371,24,Centre-Val de Loire,18,Cher,47.081813,2.414654
+252401476,SYNDICAT DEPARTEMENTAL D ENERGIES 24,AGCT,,https://www.data.gouv.fr/fr/organizations/56c586aa88ee38669b585a59/,56c586aa88ee38669b585a59,75,Nouvelle-Aquitaine,24,Dordogne,45.187045,0.722845
+200045938,SM DEPARTEMENTAL D ENERGIES DU CALVADOS DIT SDEC ENERGIE,AGCT,https://data.fleurysurorne.fr/explore/?refine.publisher=SDEC,,,28,Normandie,14,Calvados,49.200054,-0.377895
+200031987,SYNDICAT DEPARTEMENTAL D ENERGIES DE L INDRE,AGCT,,https://www.data.gouv.fr/fr/organizations/58c11791c751df5a3d517bbb/,58c11791c751df5a3d517bbb,24,Centre-Val de Loire,36,Indre,46.810479,1.703296
+200041309,SYNDICAT DEPARTEMENTAL DES ENERGIES DE SEINE ET MARNE,AGCT,,https://www.data.gouv.fr/fr/organizations/559f83e3c751df2775330fd6/,559f83e3c751df2775330fd6,11,Île-de-France,77,Seine-et-Marne,48.523251,2.668311
+281700252,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://opendata.larochelle.fr/dataset/?metakey=dataset_property&metaval=134,,,75,Nouvelle-Aquitaine,17,Charente-Maritime,46.157146,-1.115791
+281000018,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://trouver.ternum-bfc.fr/organization/service-departemental-dincendie-et-de-secours-sdis-21,,,44,Grand Est,10,Aube,48.306036,4.07735
+283000016,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,,https://www.data.gouv.fr/fr/organizations/5877b3b988ee38775fa6f717/,5877b3b988ee38775fa6f717,76,Occitanie,30,Gard,43.812832,4.316882
+283300028,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,,https://www.data.gouv.fr/fr/organizations/5aa8fccac751df716fffd696/,5aa8fccac751df716fffd696,75,Nouvelle-Aquitaine,33,Gironde,44.854864,-0.592516
+283900017,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://trouver.ternum-bfc.fr/organization/service-departemental-dincendie-et-de-secours-du-jura-sdis-39,,,27,Bourgogne-Franche-Comté,39,Jura,46.684071,5.49776
+284400017,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://data.loire-atlantique.fr/explore/?refine.publisher=Service+Départemental+d%27Incendie+et+de+Secours+de+Loire-Atlantique,,,52,Pays de la Loire,44,Loire-Atlantique,47.262542,-1.553837
+284900016,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://www.opendata49.fr/index.php?id=38,,,52,Pays de la Loire,49,Maine-et-Loire,47.473917,-0.613923
+285800017,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://trouver.ternum-bfc.fr/organization/service-departemental-dincendie-et-de-secours-sdis-58,,,27,Bourgogne-Franche-Comté,58,Nièvre,47.00265,3.139407
+286700174,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,,https://www.data.gouv.fr/fr/organizations/58738bdc88ee385e8c0bfefe/,58738bdc88ee385e8c0bfefe,44,Grand Est,67,Bas-Rhin,48.592994,7.66984
+287200265,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://data.sarthe.fr/explore/?refine.publisher=SDIS72,,,52,Pays de la Loire,72,Sarthe,48.020523,0.201749
+288100019,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,,https://www.data.gouv.fr/fr/organizations/551959f6c751df6682057c91/,551959f6c751df6682057c91,76,Occitanie,81,Tarn,43.924509,2.173408
+289500795,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://trouver.ternum-bfc.fr/organization/service-dincendie-et-de-secours-du-territoire-de-belfort-sdis-90,,,11,Île-de-France,95,Val-d'Oise,49.021061,2.055082
+287100010,SCE DEPARTEMENTAL INCENDIE ET SECOURS,OACT,https://trouver.ternum-bfc.fr/organization/service-departemental-dincendie-et-de-secours-sdis-71,,,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,46.329465,4.843309
+213105414,COMMUNE DE SEILH,COM,https://data.toulouse-metropole.fr/explore/?refine.publisher=Mairie+de+Seilh,,,76,Occitanie,31,Haute-Garonne,43.694845,1.353862
+227700010,DEPARTEMENT DE SEINE ET MARNE,DEP,,https://www.data.gouv.fr/fr/organizations/5c13da1f8b4c41461f8a544c/,5c13da1f8b4c41461f8a544c,11,Île-de-France,77,Seine-et-Marne,48.541965,2.654449
+227605409,DEPARTEMENT DE LA SEINE MARITIME,DEP,https://www.opendata76.fr,,,28,Normandie,76,Seine-Maritime,49.435153,1.092435
+229300082,DEPARTEMENT DE LA SEINE SAINT DENIS,DEP,http://data.seine-saint-denis.fr/spip.php?page=data2_rubrique,https://www.data.gouv.fr/fr/organizations/5457bc26c751df7378225d2e,5457bc26c751df7378225d2e,11,Île-de-France,93,Seine-Saint-Denis,48.905808,2.451704
+314655788,KEOLIS BREST,DSPT,https://opendata.brest-metropole.fr/explore/?sort=modified&refine.publisher=BIBUS,,,11,Île-de-France,75,Paris,48.873497,2.338944
+489418111,SOCIETE D ECONOMIE MIXTE DES TRANSPORTS MONTALBANAIS,DSPT,,https://www.data.gouv.fr/fr/organizations/5ab217b188ee387f2fb8d2c9/,5ab217b188ee387f2fb8d2c9,76,Occitanie,82,Tarn-et-Garonne,43.977859,1.325679
+314684960,STE D ECONOMIE MIXTE DES TRANSPORTS EN COMMUN DE L AGGLOMERATION NANTAISE SEMITAN,DSPT,https://data.nantesmetropole.fr/explore/?refine.publisher=Semitan,,,52,Pays de la Loire,44,Loire-Atlantique,47.221906,-1.524807
+215602434,COMMUNE DE SENE,COM,https://www.opendata56.fr/explore/?disjunctive.publisher&sort=modified&refine.publisher=Ville+de+Séné,,,53,Bretagne,56,Morbihan,47.619728,-2.737225
+213403017,COMMUNE DE SETE,COM,http://opendata.agglopole.fr,,,76,Occitanie,34,Hérault,43.401575,3.695443
+325793826,SOCIETE D ECONOMIE MIXTE DES TRANSPORTS EN COMMUN DE L AGGLOMERATION MANCELLE,DSPT,,https://www.data.gouv.fr/fr/organizations/5acb71b4c751df234a194bdb/,5acb71b4c751df234a194bdb,52,Pays de la Loire,72,Sarthe,48.007461,0.196963
+219200722,COMMUNE DE SEVRES,COM,https://sevres-seineouest.opendatasoft.com/explore/?disjunctive.theme&disjunctive.keyword&sort=modified&refine.publisher=Sèvres,https://www.data.gouv.fr/fr/organizations/549971c8c751df352b04805a,549971c8c751df352b04805a,11,Île-de-France,92,Hauts-de-Seine,48.824548,2.212595
+256204033,SI TRANSPORTS URBAINS AGGLO DU CALAISIS,AGCT,,https://www.data.gouv.fr/fr/organizations/5bfc16c28b4c4169df72af31/,5bfc16c28b4c4169df72af31,32,Hauts-de-France,62,Pas-de-Calais,50.952569,1.854268
+318163094,SOCIETE INTERCOMMUNALE DES BUS DE LA REGION ANNECIENNE,DSPT,,https://www.data.gouv.fr/fr/organizations/5bd98168634f412ce5b52439/,5bd98168634f412ce5b52439,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,45.887512,6.11896
+925620262,SICAE OISE,AGCT,,https://www.data.gouv.fr/fr/organizations/5d39a6f16f444171b133d7f4/,5d39a6f16f444171b133d7f4,32,Hauts-de-France,60,Oise,49.414798,2.824186
+200049922,SI ENERGIES COTE DOR,AGCT,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5afda2cbc751df60c8fd4696/,5afda2cbc751df60c8fd4696,27,Bourgogne-Franche-Comté,21,Côte-d'Or,47.353012,5.054882
+250601879,SM D INGENIERIE POUR LES COLLECTIVITES ET TERRITOIRES INNOVANTS DES ALPES MEDITERRANEE,AGCT,https://opendata.sictiam.fr/fr/organization/sictiam,https://www.data.gouv.fr/fr/organizations/58da0f55c751df04af13c109/,58da0f55c751df04af13c109,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.626812,7.040424
+200076545,SI D ENERGIE D INDRE ET LOIRE,AGCT,,https://www.data.gouv.fr/fr/organizations/58d138dd88ee387c51ab42b2/,58d138dd88ee387c51ab42b2,24,Centre-Val de Loire,37,Indre-et-Loire,47.388653,0.692934
+254200546,SIEL SI D ENERGIES DU DEPARTEMENT DE LA LOIRE,AGCT,,https://www.data.gouv.fr/fr/organizations/5880827c88ee382b5f9b81a4/,5880827c88ee382b5f9b81a4,84,Auvergne-Rhône-Alpes,42,Loire,45.467986,4.377747
+213503287,COMMUNE DE SIXT SUR AFF,COM,,https://www.data.gouv.fr/fr/organizations/5baa0e468b4c414416b6f7b2/,5baa0e468b4c414416b6f7b2,53,Bretagne,35,Ille-et-Vilaine,47.775992,-2.079651
+250602026,SYNDICAT MIXTE STATION DE VALBERG,AGCT,,https://www.data.gouv.fr/fr/organizations/5e060c5f8b4c414519f7e6ec/,5e060c5f8b4c414519f7e6ec,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,44.091619,6.935313
+200031268,SM4CC,AGCT,,https://www.data.gouv.fr/fr/organizations/5be6f4838b4c415550fc0af6/,5be6f4838b4c415550fc0af6,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,46.066565,6.311276
+252902655,SI OUEST CORNOUAILLE AMENAGEMENT,OACT,,https://www.data.gouv.fr/fr/organizations/syndicat-intercommunautaire-ouest-cornouaille-amenagement-2/,,53,Bretagne,29,Finistère,47.87734,-4.218275
+251602660,SYNDICAT VALORISATION DECHETS MENAGERS DE LA CHARENTE CALITOM,AGCT,,https://www.data.gouv.fr/fr/organizations/5e38023e634f414e2d35b954/,5e38023e634f414e2d35b954,75,Nouvelle-Aquitaine,16,Charente,45.703186,0.304868
+257603894,SYNDICAT INTERDEPARTEMENTAL DE L EAU SEINE AVAL,AGCT,,https://www.data.gouv.fr/fr/organizations/5e42c72d634f41223f26f4b9/,5e42c72d634f41223f26f4b9,28,Normandie,76,Seine-Maritime,49.475112,1.09712
+200000586,SM D ELIMINATION DES DECHETS SMED,AGCT,https://opendata.sictiam.fr/fr/organization/syndicat-mixte-d-elimination-des-dechets-menagers-du-moyen-pays-des-alpes-maritimes-smed,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.810927,7.187024
+251200861,SYNDICAT MIXTE POUR LA MODERNISATION NUMERIQUE ET L INGENIERIE INFORMATIQUE DES COLLECTIVITES ET ETABLISSEMENTS PUBLICS,AGCT,https://www.smica.fr/fr/metiers-services/donnees/opendata,https://www.data.gouv.fr/fr/organizations/5963804188ee3874c56d9456/,5963804188ee3874c56d9456,76,Occitanie,12,Aveyron,44.354885,2.575863
+253306617,SYNDICAT MIXTE INTERCOMMUNAL DE COLLECTE ET DE VALORISATION DES DECHETS MENAGERS DU LIBOURNAIS HAUTE GIRONDE,AGCT,https://www.datalocale.fr/dataset?organization=smicval,,,75,Nouvelle-Aquitaine,33,Gironde,45.000279,-0.15956
+254178056,SYND INTERCOMMUNAL D ASSAINISSEMENT COLLECTIF DE L AGGLOMERATION DE MONTRICHARD,AGCT,https://data.val2c.fr/explore/?disjunctive.theme&disjunctive.publisher&disjunctive.keyword&sort=modified&refine.publisher=SMIEEOM+Val-de-Cher,,,24,Centre-Val de Loire,41,Loir-et-Cher,47.354818,1.173821
+200052587,SYNDICAT MIXTE OUVERT ANJOU NUMERIQUE,AGCT,https://data.paysdelaloire.fr/explore/?disjunctive.diffuseur&disjunctive.gestionnaire&disjunctive.publisher&source=shared&sort=title&refine.publisher=Syndicat+Mixte+Anjou+Num%C3%A9rique,,,52,Pays de la Loire,49,Maine-et-Loire,47.506714,-0.508264
+200033702,SYNDICAT MIXTE PROVENCE ALPES COTE D AZUR TRES HAUT DEBIT,AGCT,https://trouver.datasud.fr/organization/smo-sud-thd,https://www.data.gouv.fr/fr/organizations/59e60b8cc751df26bd5f4ceb/,59e60b8cc751df26bd5f4ceb,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.492083,5.339602
+200046050,SYNDICAT MIXTE OUVERT VAL DE LOIRE NUMERIQUE,OACT,https://data.valdeloirenumerique.fr/explore/?sort=explore.popularity_score,,,24,Centre-Val de Loire,41,Loir-et-Cher,47.590143,1.333835
+259102457,SYND MIXTE ORGE YVETTE SEINE POUR L ELECTRICITE ET LE GAZ,AGCT,,https://www.data.gouv.fr/fr/organizations/5b0e6478c751df08a2eb86eb/,5b0e6478c751df08a2eb86eb,11,Île-de-France,91,Essonne,48.640883,2.325941
+256300120,SYNDICAT MIXTE DES TRANSPORTS EN COMMUN DE L AGGLOMERATION CLERMONTOISE,OACT,https://opendata.clermontmetropole.eu/search?source=smtc-t2c,https://www.data.gouv.fr/fr/organizations/5ef49ae03ca058b476bded7d/,5ef49ae03ca058b476bded7d,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,45.764071,3.127765
+253800825,SYNDICAT MIXTE DES MOBILITES DE L AIRE GRENOBLOISE,AGCT,http://data.metropolegrenoble.fr/ckan/dataset?organization=smtc,https://www.data.gouv.fr/fr/organizations/575fc7f0c751df0e1dac31a0/,575fc7f0c751df0e1dac31a0,84,Auvergne-Rhône-Alpes,38,Isère,45.188801,5.73914
+200006039,SYND MIXTE TRANSPORTS COLLECTIFS DE L OISE,AGCT,,https://www.data.gouv.fr/fr/organizations/5e874ace3af8a02435889f1b/,5e874ace3af8a02435889f1b,32,Hauts-de-France,60,Oise,49.430768,2.070569
+200024883,SM PAU BEARN PYRENEES MOBILITES,AGCT,,https://www.data.gouv.fr/fr/organizations/pau-bearn-pyrenees-mobilites/,5d23aa818b4c416697d58dd2,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.293403,-0.370591
+200046639,SYNDICAT INTERCOMMUNAL DE MOBILITE ET D ORGANISATION URBAINE DU VALENCIENNOIS,AGCT,,https://www.data.gouv.fr/fr/organizations/5d9c9b688b4c410f098b6b1c/,5d9c9b688b4c410f098b6b1c,32,Hauts-de-France,59,Nord,50.388723,3.551737
+200016632,SYNDICAT INTERCOM TRANSPORT URBAIN TOUT ENBUS,AGCT,,https://www.data.gouv.fr/fr/organizations/5bfd2c5e634f411d0ced2709/,5bfd2c5e634f411d0ced2709,84,Auvergne-Rhône-Alpes,07,Ardèche,44.61414,4.389739
+200081263,SYNDICAT MIXTE LA FIBRE64,AGCT,https://lafibre64-data64.opendatasoft.com/explore/?sort=modified&refine.publisher=La+Fibre+64,,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.292454,-0.372306
+520286873,SOCIETE DES TRANSPORTS URBAINS DE VIERZON,DSPT,,https://www.data.gouv.fr/fr/organizations/5bcf27078b4c4127749e259d/,5bcf27078b4c4127749e259d,24,Centre-Val de Loire,18,Cher,47.223499,2.076374
+210206959,COMMUNE DE SOISSONS,COM,https://data.ville-soissons.fr/explore/?disjunctive.theme&sort=explore.popularity_score&refine.publisher=Ville+de+Soissons+,,,32,Hauts-de-France,02,Aisne,49.383534,3.327286
+945551018,SOLEA,DSPT,https://data.mulhouse-alsace.fr/explore/?refine.publisher=Sol%C3%A9a,,,44,Grand Est,68,Haut-Rhin,47.762682,7.336395
+251702320,SOLURIS SOLUTIONS NUMERIQUES TERRITORIALES INNOVANTES,AGCT,,https://www.data.gouv.fr/fr/organizations/58247d5888ee380f19c65bb3/,58247d5888ee380f19c65bb3,75,Nouvelle-Aquitaine,17,Charente-Maritime,45.741535,-0.64312
+228000014,DEPARTEMENT DE LA SOMME,DEP,,https://www.data.gouv.fr/fr/organizations/5919a313c751df1c22411168,5919a313c751df1c22411168,32,Hauts-de-France,80,Somme,49.890853,2.296389
+216405274,COMMUNE DE SOURAIDE,COM,,https://www.data.gouv.fr/fr/organizations/5e7b6f13661ad9e52e80b633/,5e7b6f13661ad9e52e80b633,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+211603741,COMMUNE DE SOYAUX,COM,,https://www.data.gouv.fr/fr/organizations/5b39e30a88ee38056c569d48/,5b39e30a88ee38056c569d48,75,Nouvelle-Aquitaine,16,Charente,45.641629,0.192714
+219400710,COMMUNE DE SUCY EN BRIE,COM,"https://sucy.data4citizen.com/portail?facet.field=[%22organization%22,%22tags%22,%22theme%22,%22features%22]&rows=10&start=0&fq=organization:(sucy)",,,11,Île-de-France,94,Val-de-Marne,48.77088,2.523599
+231300021,REGION PROVENCE ALPES COTE D AZUR,REG,https://trouver.datasud.fr/organization/region-sud,https://www.data.gouv.fr/fr/organizations/534fffa8a3a7292c64a780d2,534fffa8a3a7292c64a780d2,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,43.302103,5.374144
+219200730,COMMUNE DE SURESNES,COM,https://opendata.hauts-de-seine.fr/explore/?refine.publisher=Ville+de+Suresnes,,,11,Île-de-France,92,Hauts-de-Seine,48.871475,2.225164
+213403074,COMMUNE DE SUSSARGUES,COM,http://data.montpellier3m.fr/datasets/commune/sussargues,,,76,Occitanie,34,Hérault,43.712881,4.004415
+200009884,SYNDICAT DU BASSIN DU LEZ,AGCT,http://data.montpellier3m.fr/datasets/commune/syble,,,76,Occitanie,34,Hérault,43.715739,3.85934
+257102582,SYNDICAT DEPARTEMENTAL D ENERGIE DE SAONE ET LOIRE,AGCT,,https://www.data.gouv.fr/fr/organizations/5a4e516bc751df60325980d9/,5a4e516bc751df60325980d9,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,46.293152,4.823487
+200042489,SYNDICAT DEPARTEMENTAL D ENERGIE ET D EQUIPEMENT DE LA VENDEE,AGCT,,https://www.data.gouv.fr/fr/organizations/54b7c236c751df406d5fa5a2/,54b7c236c751df406d5fa5a2,52,Pays de la Loire,85,Vendée,46.664303,-1.423451
+258302744,SYND MIXTE DEPART D ELECTRICITE DU VAR,AGCT,https://trouver.datasud.fr/organization/symielecvar,https://www.data.gouv.fr/fr/organizations/5a2ada2f88ee382b0adbccf3/,5a2ada2f88ee382b0adbccf3,93,Provence-Alpes-Côte d'Azur,83,Var,43.398311,6.136752
+250700267,SYNDICAT DES EAUX DU BASSIN DE L ARDECHE,AGCT,,https://www.data.gouv.fr/fr/organizations/5ab3c78ec751df61c594d38b/,5ab3c78ec751df61c594d38b,84,Auvergne-Rhône-Alpes,07,Ardèche,44.541395,4.293373
+256401605,SYNDICAT DES MOBILITES PAYS BASQUE ADOUR,AGCT,,https://www.data.gouv.fr/fr/organizations/5b9fe153634f415dcb10db19/,5b9fe153634f415dcb10db19,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,43.493858,-1.482345
+256900994,SYNDICAT MIXTE DES TRANSPORTS POUR LE RHONE ET L AGGLOMERATION LYONNAISE,AGCT,https://data.grandlyon.com/recherche?responsibleParty.organisationName=SYTRAL,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.761905,4.859119
+212106173,COMMUNE DE TALANT,COM,https://www.databfc.fr/bfc/portail,https://www.data.gouv.fr/fr/organizations/5b3ddb3488ee3819894581db/,5b3ddb3488ee3819894581db,27,Bourgogne-Franche-Comté,21,Côte-d'Or,47.335835,5.004828
+213305220,COMMUNE DE TALENCE,COM,https://opendata.bordeaux-metropole.fr/explore/?disjunctive.publisher&disjunctive.frequence&disjunctive.territoire&sort=title&refine.publisher=Ville+de+Talence,,,75,Nouvelle-Aquitaine,33,Gironde,44.809773,-0.586861
+213503311,COMMUNE DE TALENSAC,COM,,https://www.data.gouv.fr/fr/organizations/5b1e91b3c751df2840ab5ca5/,5b1e91b3c751df2840ab5ca5,53,Bretagne,35,Ille-et-Vilaine,48.108867,-1.928102
+216504407,COMMUNE DE TARBES,COM,https://opendata.ha-py.fr/pages/mairie-de-tarbes/,,,76,Occitanie,65,Hautes-Pyrénées,43.233037,0.07809
+200061257,SYNDICAT MIXTE TARN ET GARONNE NUMERIQUE,AGCT,https://data.82numerique.fr/,,,76,Occitanie,82,Tarn-et-Garonne,44.008448,1.359565
+213503345,COMMUNE DE THORIGNE FOUILLARD,COM,https://data.rennesmetropole.fr/explore/?sort=modified&refine.publisher=Ville+de+Thorigné-Fouillard,,,53,Bretagne,35,Ille-et-Vilaine,,
+253100986,SYNDICAT MIXTE DES TRANSPORTS EN COMMUN DE L AGGLOMERATION TOULOUSAINE,AGCT,https://data.toulouse-metropole.fr/explore/?refine.publisher=Tiss%C3%A9o,,,76,Occitanie,31,Haute-Garonne,43.610726,1.435186
+217704683,COMMUNE DE TORCY,COM,https://torcy-agglo-pvm.opendata.arcgis.com/,,,11,Île-de-France,77,Seine-et-Marne,48.849643,2.65243
+248300543,METROPOLE TOULON PROVENCE MEDITERRANEE,MET,https://data.metropoletpm.fr/explore/?sort=title&refine.publisher=M%C3%A9tropole+Toulon+Provence+M%C3%A9diterran%C3%A9e,https://www.data.gouv.fr/fr/organizations/5b6c128d634f41593028881d/,5b6c128d634f41593028881d,93,Provence-Alpes-Côte d'Azur,83,Var,43.118603,5.944222
+213105554,COMMUNE DE TOULOUSE,COM,https://data.toulouse-metropole.fr/explore/?refine.publisher=Mairie+de+Toulouse,https://www.data.gouv.fr/fr/organizations/534fff8aa3a7292c64a77ecd,534fff8aa3a7292c64a77ecd,76,Occitanie,31,Haute-Garonne,43.603872,1.444053
+243100518,TOULOUSE METROPOLE,MET,https://data.toulouse-metropole.fr/explore/?refine.publisher=Toulouse+M%C3%A9tropole,https://www.data.gouv.fr/fr/organizations/534fffb3a3a7292c64a78129,534fffb3a3a7292c64a78129,76,Occitanie,31,Haute-Garonne,43.611189,1.456189
+215905993,COMMUNE DE TOURCOING,COM,https://opendata.lillemetropole.fr/explore/?refine.publisher=Ville+de+Tourcoing,,,32,Hauts-de-France,59,Nord,50.723389,3.160154
+243700754,TOURS METROPOLE VAL DE LOIRE,MET,https://data.tours-metropole.fr/explore/?disjunctive.keyword&disjunctive.theme&sort=modified&refine.publisher=Tours+Métropole+Val+de+Loire,https://www.data.gouv.fr/fr/organizations/5cb6d4f78b4c4118e18f37d1/,5cb6d4f78b4c4118e18f37d1,24,Centre-Val de Loire,37,Indre-et-Loire,47.363857,0.676654
+380089664,TRANSDEV LE HAVRE,DSPT,,https://www.data.gouv.fr/fr/organizations/5cdd6a658b4c4129c70cbc44/,5cdd6a658b4c4129c70cbc44,28,Normandie,76,Seine-Maritime,49.531426,0.103658
+378493555,TRANSDEV MONT BLANC BUS,DSPT,,https://www.data.gouv.fr/fr/organizations/transdev-mont-blanc-bus/,,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,45.916397,6.861778
+552049447,SOCIETE NATIONALE SNCF,DSPT,https://data.sncf.com/explore/?refine.publisher=Transilien,,,11,Île-de-France,93,Seine-Saint-Denis,48.917896,2.351752
+243400470,COMM D AGGLOMERATION DU PAYS DE L OR,CA,,https://www.data.gouv.fr/fr/organizations/5c0f9f618b4c41745fb43104/,5c0f9f618b4c41745fb43104,76,Occitanie,34,Hérault,,
+780340360,TRANSPORTS COMMUNS AGGLOMERATIO TROYENNE,DSPT,,https://www.data.gouv.fr/fr/organizations/5c0932458b4c4175cacf2f77/,5c0932458b4c4175cacf2f77,44,Grand Est,10,Aube,48.306622,4.087352
+212203608,COMMUNE DE TREGUEUX,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.492349,-2.739136
+214402109,COMMUNE DE TRIGNAC,COM,https://data.agglo-carene.fr/explore/?disjunctive.publisher&disjunctive.gestionnaire&disjunctive.theme&disjunctive.keyword&disjunctive.license&disjunctive.features&disjunctive.diffuseur&disjunctive.dcat.spatial&source=shared&sort=modified&geonav=world%2Fworld_fr%2Ffr_40_52%2Ffr_60_44%2Ffr_72_244400644&refine.publisher=Trignac,,,52,Pays de la Loire,44,Loire-Atlantique,47.31781,-2.18773
+213805179,COMMUNE DE TULLINS,COM,,https://www.data.gouv.fr/fr/organizations/5c61a7448b4c410deeac953d/,5c61a7448b4c410deeac953d,84,Auvergne-Rhône-Alpes,38,Isère,45.3035791,5.4836144
+216405399,COMMUNE DE UHART MIXE,COM,,https://www.data.gouv.fr/fr/organizations/uhart-mixe/,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+216405431,COMMUNE D UREPEL,COM,,https://www.data.gouv.fr/fr/organizations/commune-durepel/,,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,,
+200045979,UNION DES SECTEURS D ENERGIE DU DEPARTEMENT DE L AISNE,AGCT,,https://www.data.gouv.fr/fr/organizations/576cfdce88ee386c6bab6512/,576cfdce88ee386c6bab6512,32,Hauts-de-France,02,Aisne,49.57977,3.657062
+200072064,COMMUNAUTE DE COMMUNES VAL DE CHER CONTROIS,CC,https://data.val2c.fr/explore/?disjunctive.theme&disjunctive.publisher&disjunctive.keyword&sort=modified&refine.publisher=Communaut%C3%A9+de+communes+Val+de+Cher+Controis,,,24,Centre-Val de Loire,41,Loir-et-Cher,47.433378,1.445471
+219200755,COMMUNE DE VANVES,COM,https://vanves-seineouest.opendatasoft.com/explore/?sort=records_count&refine.publisher=Vanves,https://www.data.gouv.fr/fr/organizations/54884a24c751df7226a3fc16,54884a24c751df7226a3fc16,11,Île-de-France,92,Hauts-de-Seine,48.821445,2.289635
+228300018,DEPARTEMENT DU VAR,DEP,https://trouver.datasud.fr/organization/conseil-departemental-du-var,,,93,Provence-Alpes-Côte d'Azur,83,Var,43.129557,5.936573
+219106317,COMMUNE DE VARENNES JARCY,COM,,https://www.data.gouv.fr/fr/organizations/5c2f5acc634f4124ff9f6ba2/,5c2f5acc634f4124ff9f6ba2,11,Île-de-France,91,Essonne,48.678514,2.560092
+228400016,DEPARTEMENT DU VAUCLUSE,DEP,https://trouver.datasud.fr/organization/conseil-departemental-de-vaucluse,,,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,43.948109,4.805325
+216902569,COMMUNE DE VAULX EN VELIN,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Vaulx-en-Velin,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.778049,4.921221
+534275698,VECTALIA PERPIGNAN MEDITERRANEE,DSPT,,https://www.data.gouv.fr/fr/organizations/5c18fad8634f4130048f1ea1/,5c18fad8634f4130048f1ea1,76,Occitanie,66,Pyrénées-Orientales,42.721828,2.89653
+213403272,COMMUNE DE VENDARGUES,COM,http://data.montpellier3m.fr/datasets/commune/vendargues,,,76,Occitanie,34,Hérault,43.656958,3.969552
+228600011,DEPARTEMENT DE LA VIENNE,DEP,,https://www.data.gouv.fr/fr/organizations/59bfe09988ee3809d96507cb/,59bfe09988ee3809d96507cb,75,Nouvelle-Aquitaine,86,Vienne,46.580721,0.335929
+219200771,COMMUNE DE VILLE D AVRAY,COM,https://villedavray-seineouest.opendatasoft.com/explore/?sort=records_count&refine.publisher=Mairie+de+Ville-d%27Avray,https://www.data.gouv.fr/fr/organizations/548b19c6c751df1e6e4120e7,548b19c6c751df1e6e4120e7,11,Île-de-France,92,Hauts-de-Seine,48.828214,2.18967
+210601597,COMMUNE DE VILLEFRANCHE SUR MER,COM,https://opendata.sictiam.fr/fr/dataset?_organization_limit=0&organization=mairie-de-villefranche-sur-mer,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.704804,7.310135
+219300779,COMMUNE DE VILLEMOMBLE,COM,,https://www.data.gouv.fr/fr/organizations/534fffbaa3a7292c64a78162,534fffbaa3a7292c64a78162,11,Île-de-France,93,Seine-Saint-Denis,48.882156,2.507675
+215900093,COMMUNE DE VILLENEUVE D ASCQ,COM,https://opendata.lillemetropole.fr/explore/?refine.publisher=Ville+de+Villeneuve+d%27Ascq,,,32,Hauts-de-France,59,Nord,50.619355,3.131377
+213403371,COMMUNE DE VILLENEUVE LES MAGUELONE,COM,http://data.montpellier3m.fr/datasets/commune/villeneuve-les-maguelone,,,76,Occitanie,34,Hérault,43.533162,3.862121
+210601613,COMMUNE DE VILLENEUVE LOUBET,COM,https://opendata.sictiam.fr/fr/organization/mairie-de-villeneuve-loubet,,,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,43.658215,7.121838
+216902668,COMMUNE DE VILLEURBANNE,COM,https://data.grandlyon.com/recherche?responsibleParty.organisationName=Ville%20de%20Villeurbanne,,,84,Auvergne-Rhône-Alpes,69,Rhône,45.766057,4.879589
+219506805,COMMUNE DE VILLIERS LE BEL,COM,,https://www.data.gouv.fr/fr/organizations/5965d3a888ee3839fc58d95e/,5965d3a888ee3839fc58d95e,11,Île-de-France,95,Val-d'Oise,49.007504,2.388207
+219400801,COMMUNE DE VINCENNES,COM,,https://www.data.gouv.fr/fr/organizations/5bc75fbe8b4c417d0a07c480/,5bc75fbe8b4c417d0a07c480,11,Île-de-France,94,Val-de-Marne,48.847933,2.439684
+450655147,REGIE DES TRANSPORTS POITEVINS,DSPT,https://data.grandpoitiers.fr/explore/?refine.publisher=R%C3%A9gie+des+transports+Grand+Poitiers+(VITALIS),,,75,Nouvelle-Aquitaine,86,Vienne,46.581555,0.379651
+215906363,COMMUNE DE WAMBRECHIES,COM,,https://www.data.gouv.fr/fr/organizations/5bd875ac634f41794e19695f/,5bd875ac634f41794e19695f,32,Hauts-de-France,59,Nord,50.686917,3.052165
+216803759,COMMUNE DE WITTELSHEIM,COM,https://data.mulhouse-alsace.fr/explore/?refine.publisher=Ville+de+Wittelsheim,,,44,Grand Est,68,Haut-Rhin,47.8093,7.240604
+212203897,COMMUNE DE YFFINIAC,COM,http://datarmor.cotesdarmor.fr/web/guest/donnees,,,53,Bretagne,22,Côtes-d'Armor,48.484632,-2.677148
+228900015,DEPARTEMENT DE L YONNE,DEP,https://trouver.ternum-bfc.fr/organization/conseil-departemental-de-lyonne,,,27,Bourgogne-Franche-Comté,89,Yonne,47.811487,3.561242
+216803841,COMMUNE DE ZILLISHEIM,COM,https://data.mulhouse-alsace.fr/explore/?refine.publisher=Commune+de+Zillisheim,,,44,Grand Est,68,Haut-Rhin,,
